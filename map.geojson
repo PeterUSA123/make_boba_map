@@ -1,0 +1,2777 @@
+﻿{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8277374,21.0197216 ]
+    },
+    "properties": {
+    "name":"123 Ô Chợ Dừa, Hà Nội, Vietnam",
+    "LatLng":"(21.0197216,105.8277374)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.845417,21.024906 ]
+    },
+    "properties": {
+    "name":"56 Lý Thường Kiệt, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội, Vietnam",
+    "LatLng":"(21.024906,105.845417)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8221613,21.0261461 ]
+    },
+    "properties": {
+    "name":"Tòa nhà D2 Giảng Võ, Quận Ba Đình, Hà Nội",
+    "LatLng":"(21.0261461,105.8221613)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.872864,21.044474 ]
+    },
+    "properties": {
+    "name":"187 Nguyễn Văn Cừ, Phường Ngọc Lâm, Quận Long Biên, Hà Nội",
+    "LatLng":"(21.044474,105.872864)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8682811,20.9917435 ]
+    },
+    "properties": {
+    "name":"Park 3 – Park Hill, Khu đô thị Times City, P.Mai Động, Q.Hoàng Mai, Hà Nội",
+    "LatLng":"(20.9917435,105.8682811)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8471265,21.0386985 ]
+    },
+    "properties": {
+    "name":"3 Hàng Cót, P.Hàng Mã, Q.Hoàn Kiếm, Hà Nội ",
+    "LatLng":"(21.0386985,105.8471265)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8008751,21.007211 ]
+    },
+    "properties": {
+    "name":"Lô T1.5, Tầng 1 Tòa nhà 34T, khu đô thị mới Trung Hòa, Nhân Chính, đường Hoàng Đạo Thúy, phường Trung Hòa, quận Cầu Giấy, Hà Nội",
+    "LatLng":"(21.007211,105.8008751)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.850356,21.010551 ]
+    },
+    "properties": {
+    "name":"19 Thái Phiên, Lê Đại Hành, Hà Nội, Vietnam",
+    "LatLng":"(21.010551,105.850356)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.848969,21.02309 ]
+    },
+    "properties": {
+    "name":"16 Quang Trung, Trần Hưng Đạo, Hà Nội, Vietnam",
+    "LatLng":"(21.02309,105.848969)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8534968,21.019864 ]
+    },
+    "properties": {
+    "name":"18 Ngô Quyền ,Hoàn Kiếm, Hà Nội, Vietnam",
+    "LatLng":"(21.019864,105.8534968)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.835796,21.009896 ]
+    },
+    "properties": {
+    "name":"19B10 Phạm Ngọc Thạch, Đống Đa,  Hà Nội",
+    "LatLng":"(21.009896,105.835796)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.846891,21.039611 ]
+    },
+    "properties": {
+    "name":"1 Phan Đình Phùng, Hàng Mã, Hà Nội, Vietnam",
+    "LatLng":"(21.039611,105.846891)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7856378,20.9790077 ]
+    },
+    "properties": {
+    "name":"Toà nhà Hồ Gươm Plaza, 110 Trần Phú, P. Mỗ Lao, Q. Hà Đông",
+    "LatLng":"(20.9790077,105.7856378)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.856424,21.028744 ]
+    },
+    "properties": {
+    "name":"8 Ngô Quyền , Hoàn Kiếm , Hà Nội",
+    "LatLng":"(21.028744,105.856424)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8046538,21.0287821 ]
+    },
+    "properties": {
+    "name":"188 Cầu Giấy, Ngọc Khánh, Hà Nội, Vietnam",
+    "LatLng":"(21.0287821,105.8046538)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8255329,21.028165 ]
+    },
+    "properties": {
+    "name":"165 Giảng Võ, Chợ Dừa, Hà Nội, Vietnam",
+    "LatLng":"(21.028165,105.8255329)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.842557,21.027914 ]
+    },
+    "properties": {
+    "name":"2 Cửa Nam, Hoàn Kiếm, Hà Nội",
+    "LatLng":"(21.027914,105.842557)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.792435,21.038841 ]
+    },
+    "properties": {
+    "name":"64 Trần Đăng Ninh, Hà Nội",
+    "LatLng":"(21.038841,105.792435)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8069971,21.0330909 ]
+    },
+    "properties": {
+    "name":"76 Đào Tấn, Cống Vị, Quận Ba Đình, Hà Nội",
+    "LatLng":"(21.0330909,105.8069971)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7856378,20.9790077 ]
+    },
+    "properties": {
+    "name":"Tầng 1 TTTM Hồ Gươm Plaza, 110 Trần Phú, Mỗ Lao, Hà Đông, Hà Nội, Quận Hà Đông, Hà Nội",
+    "LatLng":"(20.9790077,105.7856378)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.849208,21.036057 ]
+    },
+    "properties": {
+    "name":"5 Hàng Cá, Hà Nội",
+    "LatLng":"(21.036057,105.849208)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.855039,21.02472 ]
+    },
+    "properties": {
+    "name":"18 Ngô Quyền, Tràng Tiền, Quận Hoàn Kiếm, Hà Nội",
+    "LatLng":"(21.02472,105.855039)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8000908,21.0194518 ]
+    },
+    "properties": {
+    "name":"142 Vũ Phạm Hàm, Yên Hoà, Quận Cầu Giấy, Hà Nội",
+    "LatLng":"(21.0194518,105.8000908)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8003101,21.0114424 ]
+    },
+    "properties": {
+    "name":"105 Trần Duy Hưng, Hà Nội",
+    "LatLng":"(21.0114424,105.8003101)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.797487,20.987148 ]
+    },
+    "properties": {
+    "name":"515 Nguyễn Trãi, Thanh Xuân Nam, Quận Thanh Xuân, Hà Nội",
+    "LatLng":"(20.987148,105.797487)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8542263,21.0238839 ]
+    },
+    "properties": {
+    "name":"23 Lê Đại Hành, Hai Bà Trưng",
+    "LatLng":"(21.0238839,105.8542263)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.825554,21.028183 ]
+    },
+    "properties": {
+    "name":"163 Giảng Võ, Đống Đa",
+    "LatLng":"(21.028183,105.825554)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.847198,21.037158 ]
+    },
+    "properties": {
+    "name":"47 Hàng Cót, Hoàn Kiếm",
+    "LatLng":"(21.037158,105.847198)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.797694,21.033702 ]
+    },
+    "properties": {
+    "name":"180 Cầu Giấy, Cầu Giấy",
+    "LatLng":"(21.033702,105.797694)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.800354,21.011543 ]
+    },
+    "properties": {
+    "name":"102 Trần Duy Hưng, Cầu Giấy",
+    "LatLng":"(21.011543,105.800354)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.854482,21.035044 ]
+    },
+    "properties": {
+    "name":"1B Nguyễn Hữu Huân, Hoàn Kiếm",
+    "LatLng":"(21.035044,105.854482)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.822993,21.01005 ]
+    },
+    "properties": {
+    "name":"26 Thái Hà, Đống Đa",
+    "LatLng":"(21.01005,105.822993)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8060407,21.0337384 ]
+    },
+    "properties": {
+    "name":"15A Đào Tấn, Ba Đình",
+    "LatLng":"(21.0337384,105.8060407)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.810742,20.996559 ]
+    },
+    "properties": {
+    "name":"306 Nguyễn Trãi, Thanh Xuân",
+    "LatLng":"(20.996559,105.810742)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7809206,20.9749533 ]
+    },
+    "properties": {
+    "name":"Số 9 đường Thanh Niên - Tây Hồ",
+    "LatLng":"(20.9749533,105.7809206)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8365355,21.0104255 ]
+    },
+    "properties": {
+    "name":"12 Trần Phú, Hà Đông",
+    "LatLng":"(21.0104255,105.8365355)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.873718,21.044355 ]
+    },
+    "properties": {
+    "name":"8B4 Kim Liên, Phạm Ngọc Thạch, Đống Đa",
+    "LatLng":"(21.044355,105.873718)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7726961,21.0380194 ]
+    },
+    "properties": {
+    "name":"266 Nguyễn Văn Cừ, Long Biên",
+    "LatLng":"(21.0380194,105.7726961)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8459419,21.1411997 ]
+    },
+    "properties": {
+    "name":"114 Hồ Tùng Mậu, Cầu Giấy",
+    "LatLng":"(21.1411997,105.8459419)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7929755,21.0070884 ]
+    },
+    "properties": {
+    "name":"28A Cao Lỗ, Đông Anh",
+    "LatLng":"(21.0070884,105.7929755"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8464319,20.983488 ]
+    },
+    "properties": {
+    "name":"Tầng 1 - Big C - Trần Duy Hưng",
+    "LatLng":"(20.983488,105.8464319"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7785522,20.9708476 ]
+    },
+    "properties": {
+    "name":"20 Tân Mai, Hoàng Mai",
+    "LatLng":"(20.9708476,105.7785522)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.847098,21.017223 ]
+    },
+    "properties": {
+    "name":"28 Trưng Nhị - Hà Đông",
+    "LatLng":"(21.017223,105.847098)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.826212,21.041502 ]
+    },
+    "properties": {
+    "name":"69 Quang Trung, Hà Nội",
+    "LatLng":"(21.041502,105.826212)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8012098,21.0229632 ]
+    },
+    "properties": {
+    "name":"109A Thụy Khuê - Tây Hồ",
+    "LatLng":"(21.0229632,105.8012098)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.824603,21.0349049 ]
+    },
+    "properties": {
+    "name":"72 Chùa Láng - Đống Đa",
+    "LatLng":"(21.0349049,105.824603)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.797236,21.0118 ]
+    },
+    "properties": {
+    "name":"164C Đội Cấn",
+    "LatLng":"(21.0118,105.797236)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7749158,21.0741981 ]
+    },
+    "properties": {
+    "name":"100 Trung Kính",
+    "LatLng":"(21.0741981,105.7749158)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8934912,21.0508308 ]
+    },
+    "properties": {
+    "name":"18 Lê Văn Hiến - Cổ Nhuế",
+    "LatLng":"(21.0508308,105.8934912)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.89911,21.027389 ]
+    },
+    "properties": {
+    "name":"Tầng 1 - Big C Long Biên",
+    "LatLng":"(21.027389,105.89911)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7856378,20.9790077 ]
+    },
+    "properties": {
+    "name":"T103-1 TTTM Aeon Mall, Long Biên",
+    "LatLng":"(20.9790077,105.7856378)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7914834,21.0416351 ]
+    },
+    "properties": {
+    "name":"Tầng 3,TTTM Hồ Gươm Plaza, Hà Đông",
+    "LatLng":"(21.0416351,105.7914834)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.902732,21.070986 ]
+    },
+    "properties": {
+    "name":"273 Tô Hiệu, Cầu Giấy",
+    "LatLng":"(21.070986,105.902732)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.9422,21.08414 ]
+    },
+    "properties": {
+    "name":"841 Ngô Gia Tự, Long Biên",
+    "LatLng":"(21.08414,105.9422)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.830065,20.9696874 ]
+    },
+    "properties": {
+    "name":"Kiot 2 tầng, Chợ Baza, Ninh Hiệp",
+    "LatLng":"(20.9696874,105.830065)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8283268,21.0193985 ]
+    },
+    "properties": {
+    "name":"1A-M3 TT6 Bắc Linh Đàm, Hà Nội",
+    "LatLng":"(21.0193985,105.8283268)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7831409,21.0095242 ]
+    },
+    "properties": {
+    "name":"82-84 Ô Chợ Dừa, Đống Đa, Hà Nội",
+    "LatLng":"(21.0095242,105.7831409)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.849682,21.028687 ]
+    },
+    "properties": {
+    "name":"Số 2 Nguyễn Xiển, Hà Nội",
+    "LatLng":"(21.028687,105.849682)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.84732,21.041776 ]
+    },
+    "properties": {
+    "name":"Số 1 Nhà Chung, Hà Nội",
+    "LatLng":"(21.041776,105.84732"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.869431,20.9952 ]
+    },
+    "properties": {
+    "name":"27 Hàng Than, Ha Nội",
+    "LatLng":"(20.9952,105.869431)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8162791,21.0033684 ]
+    },
+    "properties": {
+    "name":"Đ1-20 tầng B1T4 TTTM Times City, Hà Nội",
+    "LatLng":"(21.0033684,105.8162791)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.853637,21.023964 ]
+    },
+    "properties": {
+    "name":"B2-R4-10B TTTM Royal City, Hà Nội",
+    "LatLng":"(21.023964,105.853637)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8452928,21.0011789 ]
+    },
+    "properties": {
+    "name":"23E Hai Ba Trưng, Hà Nội",
+    "LatLng":"(21.0011789,105.8452928)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.841724,21.030038 ]
+    },
+    "properties": {
+    "name":"157 Trần Đại Nghĩa, Hà Nội",
+    "LatLng":"(21.030038,105.841724)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8128925,20.96051 ]
+    },
+    "properties": {
+    "name":"22 Điện Biên Phủ, Hà Nội",
+    "LatLng":"(20.96051,105.8128925)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.763798,21.036845 ]
+    },
+    "properties": {
+    "name":"100 Kim Giang, Hà Nội",
+    "LatLng":"(21.036845,105.763798)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.799671,21.027797 ]
+    },
+    "properties": {
+    "name":"103 Cầu Diễn, Hà Nội",
+    "LatLng":"(21.027797,105.799671)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.832689,21.019333 ]
+    },
+    "properties": {
+    "name":"1194 Đường Láng, Hà Nội",
+    "LatLng":"(21.019333,105.832689)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.873304,21.047949 ]
+    },
+    "properties": {
+    "name":"241 Khâm Thiên, Hà Nội",
+    "LatLng":"(21.047949,105.873304)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8180141,21.0213789 ]
+    },
+    "properties": {
+    "name":"355 Ngọc Lâm, Hà Nội",
+    "LatLng":"(21.0213789,105.8180141)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.787315,21.036371 ]
+    },
+    "properties": {
+    "name":"50 Láng Hạ, Hà Nội",
+    "LatLng":"(21.036371,105.787315)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.810309,21.0186959 ]
+    },
+    "properties": {
+    "name":"169 Xuân Thủy, Hà Nội",
+    "LatLng":"(21.0186959,105.810309"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.830065,20.9696874 ]
+    },
+    "properties": {
+    "name":"47 Huỳnh Thúc Kháng, Hà Nội",
+    "LatLng":"(20.9696874,105.830065)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.860625,21.009338 ]
+    },
+    "properties": {
+    "name":"HH1A Bán đảo Linh Đàm, Hà Nội",
+    "LatLng":"(21.009338,105.860625)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7855047,21.0460394 ]
+    },
+    "properties": {
+    "name":"252 Trần Khát Chân, Hà Nội",
+    "LatLng":"(21.0460394,105.7855047)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.864721,21.003131 ]
+    },
+    "properties": {
+    "name":"439 Hoàng Quốc Việt, Hà Nội",
+    "LatLng":"(21.003131,105.864721)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.825653,21.030554 ]
+    },
+    "properties": {
+    "name":"156 Lạc Trung, Hà Nội",
+    "LatLng":"(21.030554,105.825653)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.806055,21.047906 ]
+    },
+    "properties": {
+    "name":"46 Kim Mã, Hà Nội",
+    "LatLng":"(21.047906,105.806055)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7737516,20.9690967 ]
+    },
+    "properties": {
+    "name":"59 Lạc Long Quân, Hà Nội",
+    "LatLng":"(20.9690967,105.7737516)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.835934,21.003711 ]
+    },
+    "properties": {
+    "name":"185 Quang Trung, Hà Đông, Hà Nội",
+    "LatLng":"(21.003711,105.835934)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8306142,21.0110752 ]
+    },
+    "properties": {
+    "name":"150 Lương Định Của, Hà Nội",
+    "LatLng":"(21.0110752,105.8306142)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.9348551,21.0104809 ]
+    },
+    "properties": {
+    "name":"1C Hồ Đắc Di, Hà Nội",
+    "LatLng":"(21.0104809,105.9348551)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7703014,21.0343413 ]
+    },
+    "properties": {
+    "name":"279 Ngô Xuân Quảng, Hà Nội",
+    "LatLng":"(21.0343413,105.7703014)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.777822,21.0152451 ]
+    },
+    "properties": {
+    "name":"Sun Square 21 Lê Đức Thọ, Hà Nội",
+    "LatLng":"(21.0152451,105.777822)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.818548,21.0017989 ]
+    },
+    "properties": {
+    "name":"TTTM The Garden Mễ Trì, Hà Nội",
+    "LatLng":"(21.0017989,105.818548)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.9232051,20.9731609 ]
+    },
+    "properties": {
+    "name":"81 Nguyễn Trãi, Hà Nội",
+    "LatLng":"(20.9731609,105.9232051)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.850634,21.000809 ]
+    },
+    "properties": {
+    "name":"18 Phố Trúc, Ecopark",
+    "LatLng":"(21.000809,105.850634)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8578627,20.9857871 ]
+    },
+    "properties": {
+    "name":"425 Bạch Mai, Hà Nội",
+    "LatLng":"(20.9857871,105.8578627)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8056459,21.0073835 ]
+    },
+    "properties": {
+    "name":"69 Lô 7, Đền Lừ 2, Hà Nội",
+    "LatLng":"(21.0073835,105.8056459)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.828275,20.999715 ]
+    },
+    "properties": {
+    "name":"42 Nguyễn Thị Định, Hà Nội",
+    "LatLng":"(20.999715,105.828275)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8547291,21.0060977 ]
+    },
+    "properties": {
+    "name":"BigC số 3 Lê Trọng Tấn, Hà Nội",
+    "LatLng":"(21.0060977,105.8547291)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.806606,21.066611 ]
+    },
+    "properties": {
+    "name":"58 Võ Thị Sáu, Hà Nội",
+    "LatLng":"(21.066611,105.806606)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7299918,21.0562925 ]
+    },
+    "properties": {
+    "name":"28A Xuân La, Hà Nội",
+    "LatLng":"(21.0562925,105.7299918)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8220947,21.027451 ]
+    },
+    "properties": {
+    "name":"105 Phố Nhổn, Hà Nội",
+    "LatLng":"(21.027451,105.8220947)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8326445,20.9865989 ]
+    },
+    "properties": {
+    "name":"125 Trần Huy Liệu, Hà Nội",
+    "LatLng":"(20.9865989,105.8326445)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.801655,21.01875 ]
+    },
+    "properties": {
+    "name":"32 Trần Nguyên Đán, Định Công, Hà Nội",
+    "LatLng":"(21.01875,105.801655)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8070074,20.9569987 ]
+    },
+    "properties": {
+    "name":"85 Nguyễn Khang, Hà Nội",
+    "LatLng":"(20.9569987,105.8070074)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8643921,20.8694694 ]
+    },
+    "properties": {
+    "name":"CT8B Khu đô thị Đại Thanh, Hà Nội",
+    "LatLng":"(20.8694694,105.8643921)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7641405,21.0650499 ]
+    },
+    "properties": {
+    "name":"47B Trần Phú, Thường Tín, Hà Nội",
+    "LatLng":"(21.0650499,105.7641405)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.5044344,21.1368798 ]
+    },
+    "properties": {
+    "name":"Học viện cảnh sát, Bắc Từ Liêm, Hà Nội",
+    "LatLng":"(21.1368798,105.5044344)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.773711,20.983833 ]
+    },
+    "properties": {
+    "name":"13 Nguyễn Thái Học, Sơn Tây, Hà Nội",
+    "LatLng":"(20.983833,105.773711)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.803455,20.997446 ]
+    },
+    "properties": {
+    "name":"Số 3A2 Shop House Vạn Phúc, Tố Hữu, Hà Nội",
+    "LatLng":"(20.997446,105.803455)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8263479,21.0200773 ]
+    },
+    "properties": {
+    "name":"A6-A7, Tầng 1 Tòa A TTTM Imperia Garden, Hà Nội",
+    "LatLng":"(21.0200773,105.8263479)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8667444,21.0029914 ]
+    },
+    "properties": {
+    "name":"166 phố Ô Chợ Dừa, phường Ô Chợ Dừa, quận Đống Đa, Hanoi",
+    "LatLng":"(21.0029914,105.8667444)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8177087,21.0151471 ]
+    },
+    "properties": {
+    "name":"232 Lạc Trung - Hai Bà Trưng, Hanoi, Vietnam",
+    "LatLng":"(21.0151471,105.8177087)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.856491,21.029028 ]
+    },
+    "properties": {
+    "name":"290 Thái Hà, Hanoi, Vietnam",
+    "LatLng":"(21.029028,105.856491)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7907172,21.0394112 ]
+    },
+    "properties": {
+    "name":"Số 7 Trần Nguyên Hãn , Hoàn Kiếm, Hanoi, Vietnam",
+    "LatLng":"(21.0394112,105.7907172"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7933862,20.9844003 ]
+    },
+    "properties": {
+    "name":"56 Nguyễn Phong Sắc, Hanoi, Vietnam",
+    "LatLng":"(20.9844003,105.7933862"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8486099,20.9837383 ]
+    },
+    "properties": {
+    "name":"50 Trần Phú, Hà Đông, Hanoi, Vietnam",
+    "LatLng":"(20.9837383,105.8486099)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8504775,21.0092622 ]
+    },
+    "properties": {
+    "name":"120 Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hanoi",
+    "LatLng":"(21.0092622,105.8504775)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.808883,21.022892 ]
+    },
+    "properties": {
+    "name":"7 Lê Đại Hành, Hai Bà Trưng, Hanoi, Vietnam",
+    "LatLng":"(21.022892,105.808883)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8013395,21.0196168 ]
+    },
+    "properties": {
+    "name":"10 Chùa Láng, Hanoi, Vietnam",
+    "LatLng":"(21.0196168,105.8013395)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8513956,21.0158244 ]
+    },
+    "properties": {
+    "name":"18 đường Nguyễn Khang, phường Yên Hòa, Quận Cầu Giấy, Hà Nội",
+    "LatLng":"(21.0158244,105.8513956)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.89911,21.027389 ]
+    },
+    "properties": {
+    "name":"132 Phố Huế, Hanoi, Vietnam",
+    "LatLng":"(21.027389,105.89911)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8048318,20.988945 ]
+    },
+    "properties": {
+    "name":"Tầng 3, Aeon Long Biên,Hanoi, Vietnam",
+    "LatLng":"(20.988945,105.8048318)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.772479,21.038415 ]
+    },
+    "properties": {
+    "name":"18 Nguyễn Xiển, Thanh Xuân, Hanoi, Vietnam",
+    "LatLng":"(21.038415,105.772479)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8059226,21.0337086 ]
+    },
+    "properties": {
+    "name":"Số 6 Hồ Tùng Mậu,Mai Dịch, Cầu Giấy, Mai Dich, Ha Noi, Vietnam",
+    "LatLng":"(21.0337086,105.8059226)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8358153,21.0099241 ]
+    },
+    "properties": {
+    "name":"103 Đào Tấn, Ngọc Khánh, Ba Đình, Hà Nội, Vietnam",
+    "LatLng":"(21.0099241,105.8358153"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8133579,20.9979109 ]
+    },
+    "properties": {
+    "name":"5B7 Phạm Ngọc Thạch, Hanoi, Vietnam",
+    "LatLng":"(20.9979109,105.8133579)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8192473,21.0134996 ]
+    },
+    "properties": {
+    "name":"Số 8 Thượng Đình,Khương Đình,Thanh Xuân, Hanoi, Vietnam",
+    "LatLng":"(21.0134996,105.8192473)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.842357,21.041501 ]
+    },
+    "properties": {
+    "name":"188 Thái Hà - Đống Đa - Hà Nội",
+    "LatLng":"(21.041501,105.842357)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7630757,21.0550831 ]
+    },
+    "properties": {
+    "name":"92 Cửa Bắc, Ba Đình, Hà Nội",
+    "LatLng":"(21.0550831,105.7630757)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7160469,21.0651094 ]
+    },
+    "properties": {
+    "name":"118 Phú Diễn, Q.Bắc Từ Liêm, Hà Nội",
+    "LatLng":"(21.0651094,105.7160469)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8006957,21.0207899 ]
+    },
+    "properties": {
+    "name":"Lai Xá, Hoài Đức, Hà Nội",
+    "LatLng":"(21.0207899,105.8006957)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8452963,21.0011521 ]
+    },
+    "properties": {
+    "name":"28B Nguyễn Khang,Cầu Giấy,HN",
+    "LatLng":"(21.0011521,105.8452963)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7385336,21.0865201 ]
+    },
+    "properties": {
+    "name":"66 Trần Đại Nghĩa, HBT, Hà Nội",
+    "LatLng":"(21.0865201,105.7385336)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.794254,21.041548 ]
+    },
+    "properties": {
+    "name":"20 Nhổn,P.Tây Tựu, Bắc Từ Liêm",
+    "LatLng":"(21.041548,105.794254)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.817409,21.030552 ]
+    },
+    "properties": {
+    "name":"175 Tô Hiệu,Dịch Vọng, Cầu Giấy",
+    "LatLng":"(21.030552,105.817409)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8503965,20.9973027 ]
+    },
+    "properties": {
+    "name":"331 Kim Mã, Ba Đình, Hà Nội",
+    "LatLng":"(20.9973027,105.8503965)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7893303,20.9823988 ]
+    },
+    "properties": {
+    "name":"459 Bạch Mai, HBT, Hà Nội",
+    "LatLng":"(20.9823988,105.7893303)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.6031342,21.016277 ]
+    },
+    "properties": {
+    "name":"15 Nguyễn Văn Lộc, Hà Đông",
+    "LatLng":"(21.016277,105.6031342)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.6731923,21.0830194 ]
+    },
+    "properties": {
+    "name":"Bình Phú, Thạch Thất, Hà Nội",
+    "LatLng":"(21.0830194,105.6731923)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8744495,21.0482891 ]
+    },
+    "properties": {
+    "name":"115 Tây Sơn, Đan Phượng, Hà Nội",
+    "LatLng":"(21.0482891,105.8744495)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.869116,20.9950183 ]
+    },
+    "properties": {
+    "name":"Ngọc Lâm, Long Biên, Hà Nội",
+    "LatLng":"(20.9950183,105.869116)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8532018,20.921112 ]
+    },
+    "properties": {
+    "name":"K4 - Đường Thanh Niên, Time City",
+    "LatLng":"(20.921112,105.8532018)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.854497,21.033962 ]
+    },
+    "properties": {
+    "name":"Km 13, Quốc lộ 1A cũ, Ngọc Hồi, Thanh Trì",
+    "LatLng":"(21.033962,105.854497)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.6655936,18.6726075 ]
+    },
+    "properties": {
+    "name":"33 Nguyễn Hữu Huân, Q.Hoàn Kiếm",
+    "LatLng":"18.6726075,105.6655936)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8462255,21.1411253 ]
+    },
+    "properties": {
+    "name":"11A Đào Tấn",
+    "LatLng":"(21.1411253,105.8462255)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.9381894,21.0066153 ]
+    },
+    "properties": {
+    "name":"Cao Lỗ, Đông Anh",
+    "LatLng":"(21.0066153,105.9381894)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8073409,20.994189 ]
+    },
+    "properties": {
+    "name":"28C Đào Nguyên, Trâu Quỳ, Gia Lâm, Hà Nội",
+    "LatLng":"(20.994189,105.8073409)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.9729255,21.0218428 ]
+    },
+    "properties": {
+    "name":"350 Nguyễn Trãi, Nam Từ Liêm, Hà Nội",
+    "LatLng":"(21.0218428,105.9729255)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8284619,21.0003211 ]
+    },
+    "properties": {
+    "name":"Phú Thị, Gia Lâm",
+    "LatLng":"(21.0003211,105.8284619"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7682795,20.9650883 ]
+    },
+    "properties": {
+    "name":"Tầng 5 TTTM Artemis, số 3 Lê Trọng Tấn",
+    "LatLng":"(20.9650883,105.7682795)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.770675,21.03328 ]
+    },
+    "properties": {
+    "name":"237 Quang Trung, Hà Đông, Hà Nội",
+    "LatLng":"(21.03328,105.770675)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.89911,21.027389 ]
+    },
+    "properties": {
+    "name":"107 Ng.Hoàng,P.Mỹ Đình 2,Q.Nam Từ Liêm",
+    "LatLng":"(21.027389,105.89911)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8837109,21.0496777 ]
+    },
+    "properties": {
+    "name":"T3 TTTM Aeon Mall Long Biên, Long Biên",
+    "LatLng":"(21.0496777,105.8837109)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.850955,21.003064 ]
+    },
+    "properties": {
+    "name":"157 Nguyễn Văn Cừ, Long Biên, Hà Nội",
+    "LatLng":"(21.003064,105.850955)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.840259,20.9435753 ]
+    },
+    "properties": {
+    "name":"259A Bạch Mai, HBT, Hà Nội",
+    "LatLng":"(20.9435753,105.840259)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.839001,21.01895 ]
+    },
+    "properties": {
+    "name":"166 Pham Trọng Tuệ, Thanh Trì",
+    "LatLng":"(21.01895,105.839001)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.816162,21.000396 ]
+    },
+    "properties": {
+    "name":"19, Khâm Thiên, Đống Đa, Hà Nội",
+    "LatLng":"(21.000396,105.816162)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.762123,21.156947 ]
+    },
+    "properties": {
+    "name":"B2,R4,K3, 72 Nguyễn Trãi",
+    "LatLng":"(21.156947,105.762123)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7777619,21.0368122 ]
+    },
+    "properties": {
+    "name":"Khu đô thị Phương Huy, Phố Yên, Mê Linh, HN",
+    "LatLng":"(21.0368122,105.7777619)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.851666,21.032243 ]
+    },
+    "properties": {
+    "name":"60 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",
+    "LatLng":"(21.032243,105.851666)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.831964,21.006304 ]
+    },
+    "properties": {
+    "name":"114 Cầu Gỗ, Hoàn Kiếm",
+    "LatLng":"(21.006304,105.831964)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.942223,21.084348 ]
+    },
+    "properties": {
+    "name":"T6 Vincom Phạm Ngọc Thạch, Đống Đa",
+    "LatLng":"(21.084348,105.942223)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8048318,20.988945 ]
+    },
+    "properties": {
+    "name":"Kios 37, Chợ đầu mối Baza, Ninh Hiệp",
+    "LatLng":"(20.988945,105.8048318)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.850431,20.999416 ]
+    },
+    "properties": {
+    "name":"Số 8 Nguyễn Xiển – Thanh Xuân – Hà Nội",
+    "LatLng":"(20.999416,105.850431)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.499905,21.1256261 ]
+    },
+    "properties": {
+    "name":"451 Bạch Mai, Hà Nội",
+    "LatLng":"(21.1256261,105.499905)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.796143,21.034848 ]
+    },
+    "properties": {
+    "name":"316 phố Chùa Thông, TX Sơn Tây",
+    "LatLng":"(21.034848,105.796143)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.80218,21.029886 ]
+    },
+    "properties": {
+    "name":"262 Cầu Giấy, Hà Nội",
+    "LatLng":"(21.029886,105.80218)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8684589,20.8739892 ]
+    },
+    "properties": {
+    "name":"54 Cầu Giấy, Ba Đình, Hà Nội",
+    "LatLng":"(20.8739892,105.8684589)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7892766,21.0360469 ]
+    },
+    "properties": {
+    "name":"Cầu Dừa, Văn Bình, Thường Tín, Hà Nội",
+    "LatLng":"(21.0360469,105.7892766)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8273211,21.0199497 ]
+    },
+    "properties": {
+    "name":"Số 2 Trần Thái Tông, Cầu Giấy",
+    "LatLng":"(21.0199497,105.8273211)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.833554,21.026273 ]
+    },
+    "properties": {
+    "name":"146 Ô Chợ Dừa, Đống Đa, Hà Nội",
+    "LatLng":"(21.026273,105.833554)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8465329,20.985497 ]
+    },
+    "properties": {
+    "name":"59 Tôn Đức Thắng, Đống Đa, Hà Nội",
+    "LatLng":"(20.985497,105.8465329)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7749158,21.0741981 ]
+    },
+    "properties": {
+    "name":"387 Trương Định, Hoàng Mai",
+    "LatLng":"(21.0741981,105.7749158)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.9364252,21.0146954 ]
+    },
+    "properties": {
+    "name":"93 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",
+    "LatLng":"(21.0146954,105.9364252)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7856771,20.9789364 ]
+    },
+    "properties": {
+    "name":"158 Ngô Xuân Quảng - Gia Lâm - Hà Nội",
+    "LatLng":"(20.9789364,105.7856771)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.826104,20.963988 ]
+    },
+    "properties": {
+    "name":"BigC Hồ Gươm, Hà Đông, Hà Nội",
+    "LatLng":"(20.963988,105.826104)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7694046,20.9659864 ]
+    },
+    "properties": {
+    "name":"Toà nhà HH4C, Lô 54-56, Nguyễn Hữu Thọ",
+    "LatLng":"(20.9659864,105.7694046)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8526759,21.0322356 ]
+    },
+    "properties": {
+    "name":"679 Quang Trung, Phú La, Hà Đông, Hanoi",
+    "LatLng":"(21.0322356,105.8526759)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7462808,20.9622887 ]
+    },
+    "properties": {
+    "name":"57 Cầu Gỗ, Hoàn Kiếm, Hà Nội",
+    "LatLng":"(20.9622887,105.7462808)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.849723,21.0236139 ]
+    },
+    "properties": {
+    "name":"KĐT mới, Dương Nội, Yên Nghĩa, Hà Đông",
+    "LatLng":"(21.0236139,105.849723)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8364571,21.010375 ]
+    },
+    "properties": {
+    "name":"42F Lý Thường Kiệt, Hoàn Kiếm",
+    "LatLng":"(21.010375,105.8364571)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.827667,21.034712 ]
+    },
+    "properties": {
+    "name":"14b4 Phạm Ngọc Thạch,Hà Nội ",
+    "LatLng":"(21.034712,105.827667)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.763943,21.035639 ]
+    },
+    "properties": {
+    "name":"95 Đội Cấn, Ba Đình, Hà Nội",
+    "LatLng":"(21.035639,105.763943)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.913445,20.7530955 ]
+    },
+    "properties": {
+    "name":"153 Ng. Đổng Chi, Cầu Diễn,Nam Từ Liêm",
+    "LatLng":"(20.7530955,105.913445)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.825655,21.011384 ]
+    },
+    "properties": {
+    "name":"Phú Mỹ, Phú Xuyên, Hà Nội",
+    "LatLng":"(21.011384,105.825655)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.846663,21.032016 ]
+    },
+    "properties": {
+    "name":"137 Tây Sơn - Đống Đa - Hà Nội",
+    "LatLng":"(21.032016,105.846663)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7852284,21.0415699 ]
+    },
+    "properties": {
+    "name":"Số 2 Nguyễn Văn Tố, Hoàn Kiếm, Hà Nội",
+    "LatLng":"(21.0415699,105.7852284)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.849226,21.01054 ]
+    },
+    "properties": {
+    "name":"253 Trần Quốc Hoàn,Dịch Vọng, Cầu Giấy",
+    "LatLng":"(21.01054,105.849226)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.893519,21.0607309 ]
+    },
+    "properties": {
+    "name":"25 Lê Đại Hành, HBT, Hà Nội",
+    "LatLng":"(21.0607309,105.893519)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.851139,20.982316 ]
+    },
+    "properties": {
+    "name":"176 Ngô Gia Tự, Đức Giang, Long Biên",
+    "LatLng":"(20.982316,105.851139)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.812417,21.0280475 ]
+    },
+    "properties": {
+    "name":"12 Tân Mai, Hoàng Mai",
+    "LatLng":"(21.0280475,105.812417)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.853137,21.025119 ]
+    },
+    "properties": {
+    "name":"54 Nguyễn Chí Thanh, Ba Đình, Hà Nội",
+    "LatLng":"(21.025119,105.853137)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.844713,21.0250999 ]
+    },
+    "properties": {
+    "name":"4B Hàng Bài, Quận Hoàn Kiếm, Hà Nội",
+    "LatLng":"(21.0250999,105.844713)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.850111,21.023497 ]
+    },
+    "properties": {
+    "name":"60 Lý Thường Kiệt, Hà Nội",
+    "LatLng":"(21.023497,105.850111)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8503884,21.0091836 ]
+    },
+    "properties": {
+    "name":"42C Lý Thường Kiệt, Hà Nội",
+    "LatLng":"(21.0091836,105.8503884)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8279079,21.0193681 ]
+    },
+    "properties": {
+    "name":"7 Lê Đại Hành, Hà Nội",
+    "LatLng":"(21.0193681,105.8279079)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.835717,21.004779 ]
+    },
+    "properties": {
+    "name":"51A Ô Chợ Dừa, Đống Đa, Hà Nội",
+    "LatLng":"(21.004779,105.835717)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.851738,21.018859 ]
+    },
+    "properties": {
+    "name":"Số 4 - B14 Lương Định Của, Hà Nội",
+    "LatLng":"(21.018859,105.851738)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.804331,21.0234859 ]
+    },
+    "properties": {
+    "name":"30 Phố Huế, Hà Nội",
+    "LatLng":"(21.0234859,105.804331)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.844356,21.001883 ]
+    },
+    "properties": {
+    "name":"58 Chùa Láng, Hà Nội",
+    "LatLng":"(21.001883,105.844356)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8278175,21.0194178 ]
+    },
+    "properties": {
+    "name":"73 Lê Thanh Nghị, Hà Nội",
+    "LatLng":"(21.0194178,105.8278175)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8133759,20.9982788 ]
+    },
+    "properties": {
+    "name":"71 Ô Chợ Dừa, Hà Nội",
+    "LatLng":"(20.9982788,105.8133759)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8489722,21.0107637 ]
+    },
+    "properties": {
+    "name":"212C Nguyễn Trãi, Hà Nội",
+    "LatLng":"(21.0107637,105.8489722)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8256346,21.0209301 ]
+    },
+    "properties": {
+    "name":"20 Lê Đại Hành, Hai Bà Trưng, Hà Nội",
+    "LatLng":"(21.0209301,105.8256346)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.84788,21.0036977 ]
+    },
+    "properties": {
+    "name":"34 Hoàng Cầu, Đống Đa, Hà Nội",
+    "LatLng":"(21.0036977,105.84788)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.842594,21.042426 ]
+    },
+    "properties": {
+    "name":"17 Tạ Quang Bửu, Hai Bà Trưng, Hà Nội",
+    "LatLng":"(21.042426,105.842594)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.825169,21.027327 ]
+    },
+    "properties": {
+    "name":"124 Quán Thánh, Hà Nội",
+    "LatLng":"(21.027327,105.825169)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8518421,21.0121676 ]
+    },
+    "properties": {
+    "name":"183 Giảng Võ, Hà Nội",
+    "LatLng":"(21.0121676,105.8518421)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.821965,21.010993 ]
+    },
+    "properties": {
+    "name":"233 Phố Huế, Hà Nội",
+    "LatLng":"(21.010993,105.821965)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.850634,21.000809 ]
+    },
+    "properties": {
+    "name":"25 Thái Hà, Hà Nội",
+    "LatLng":"(21.000809,105.850634)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.852162,21.024386 ]
+    },
+    "properties": {
+    "name":"425 Bạch Mai, Hà Nội",
+    "LatLng":"(21.024386,105.852162)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.792633,21.0416029 ]
+    },
+    "properties": {
+    "name":"29 Hai Bà Trưng",
+    "LatLng":"(21.0416029,105.792633)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8111167,21.0112589 ]
+    },
+    "properties": {
+    "name":"106A-B9 Tô Hiệu, Cầu Giấy, Hà Nội",
+    "LatLng":"(21.0112589,105.8111167)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.806951,20.993909 ]
+    },
+    "properties": {
+    "name":"124 Láng Hạ, Láng Hạ, Quận Đống Đa, Hà Nội",
+    "LatLng":"(20.993909,105.806951)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.861488,20.99592 ]
+    },
+    "properties": {
+    "name":"370 Nguyễn Trãi, Hà Nội",
+    "LatLng":"(20.99592,105.861488)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.815814,20.9971285 ]
+    },
+    "properties": {
+    "name":"318 Minh Khai, Mai Động, Quận Hai Bà Trưng, Hà Nội",
+    "LatLng":"(20.9971285,105.815814)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8291096,21.0191612 ]
+    },
+    "properties": {
+    "name":"280 Thượng Đình, Thượng Đình, Quận Thanh Xuân, Hà Nội",
+    "LatLng":"(21.0191612,105.8291096)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7779,21.036749 ]
+    },
+    "properties": {
+    "name":"19 Ô Chợ Dừa, Hà Nội",
+    "LatLng":"(21.036749,105.7779)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.851666,21.01823 ]
+    },
+    "properties": {
+    "name":"88 Hồ Tùng Mậu, Mai Dịch, Quận Cầu Giấy, Hà Nội",
+    "LatLng":"(21.01823,105.851666)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8279184,21.0196224 ]
+    },
+    "properties": {
+    "name":"47 Phố Huế, Hà Nội",
+    "LatLng":"(21.0196224,105.8279184)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7771347,20.9664526 ]
+    },
+    "properties": {
+    "name":"113 Ô Chợ Dừa, Hà Nội",
+    "LatLng":"(20.9664526,105.7771347)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.847202,21.040285 ]
+    },
+    "properties": {
+    "name":"124 Tô Hiệu, Hà Nội",
+    "LatLng":"(21.040285,105.847202)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8027418,21.0004435 ]
+    },
+    "properties": {
+    "name":"4 Quán Thánh, Hà Nội",
+    "LatLng":"(21.0004435,105.8027418)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.823973,21.031491 ]
+    },
+    "properties": {
+    "name":"102 Ngụy Như Kom Tum, Thanh Xuân, Hà Nội",
+    "LatLng":"(21.031491,105.823973)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8340432,21.0136899 ]
+    },
+    "properties": {
+    "name":"185 Kim Mã, Hà Nội",
+    "LatLng":"(21.0136899,105.8340432)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.83149,21.021715 ]
+    },
+    "properties": {
+    "name":"157 Xã Đàn, Hà Nội",
+    "LatLng":"(21.021715,105.83149)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8493054,21.0097082 ]
+    },
+    "properties": {
+    "name":"215 Tôn Đức Thắng, Đống Đa, Hà Nội",
+    "LatLng":"(21.0097082,105.8493054)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.853014,21.033048 ]
+    },
+    "properties": {
+    "name":"193A Bà Triệu, Hà Nội",
+    "LatLng":"(21.033048,105.853014)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8454768,21.0002367 ]
+    },
+    "properties": {
+    "name":"14 Gia Ngư, Hà Nội",
+    "LatLng":"(21.0002367,105.8454768)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8020599,21.0368442 ]
+    },
+    "properties": {
+    "name":"183 Trần Đại Nghĩa, Hà Nội",
+    "LatLng":"(21.0368442,105.8020599)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8694746,21.0037252 ]
+    },
+    "properties": {
+    "name":"87 Nguyễn Khánh Toàn, Hà Nội",
+    "LatLng":"(21.0037252,105.8694746)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.791277,21.0216276 ]
+    },
+    "properties": {
+    "name":"635 Minh Khai, Hà Nội",
+    "LatLng":"(21.0216276,105.791277)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8508669,21.028457 ]
+    },
+    "properties": {
+    "name":"210 Trung Kính, Hà Nội",
+    "LatLng":"(21.028457,105.8508669"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7723662,20.9682872 ]
+    },
+    "properties": {
+    "name":"128 Hàng Trống, Hà Nội",
+    "LatLng":"(20.9682872,105.7723662)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.835981,21.043027 ]
+    },
+    "properties": {
+    "name":"169 Quang Trung, Hà Đông",
+    "LatLng":"(21.043027,105.835981)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.859553,21.015321 ]
+    },
+    "properties": {
+    "name":"11 Thanh Niên, Hà Nội",
+    "LatLng":"(21.015321,105.859553"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8431481,20.9564368 ]
+    },
+    "properties": {
+    "name":"4 Trần Thái Tông, Hà Nội ",
+    "LatLng":"(20.9564368,105.8431481)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8338179,21.019245 ]
+    },
+    "properties": {
+    "name":"137 Ngọc Hồi, Hà Nội  ",
+    "LatLng":"(21.019245,105.8338179)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.776852,21.036976 ]
+    },
+    "properties": {
+    "name":"219C Khâm Thiên, Hà Nội",
+    "LatLng":"(21.036976,105.776852)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8092824,21.0377899 ]
+    },
+    "properties": {
+    "name":"112 Hồ Tùng Mậu, Hà Nội  ",
+    "LatLng":"(21.0377899,105.8092824"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.850258,20.998379 ]
+    },
+    "properties": {
+    "name":"123 Đội Cấn, Hà Nội",
+    "LatLng":"(20.998379,105.850258)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8053693,21.0236074 ]
+    },
+    "properties": {
+    "name":"401 Bạch Mai, Hà Nội",
+    "LatLng":"(21.0236074,105.8053693)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.85252,21.032208 ]
+    },
+    "properties": {
+    "name":"163 Chùa Láng, Hà Nội",
+    "LatLng":"(21.032208,105.85252)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.842468,21.027815 ]
+    },
+    "properties": {
+    "name":"45 Cầu Gỗ, Hà Nội",
+    "LatLng":"(21.027815,105.842468)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.825633,21.028244 ]
+    },
+    "properties": {
+    "name":"59 Cửa Nam, Hà Nội",
+    "LatLng":"(21.028244,105.825633)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8451719,21.0014898 ]
+    },
+    "properties": {
+    "name":"155 Giảng Võ, Hà Nội",
+    "LatLng":"(21.0014898,105.8451719)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.814251,20.986004 ]
+    },
+    "properties": {
+    "name":"147 Trần Đại Nghĩa, Hà Nội",
+    "LatLng":"(20.986004,105.814251)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8707809,21.046041 ]
+    },
+    "properties": {
+    "name":"22 Khương Hạ, Hà Nội",
+    "LatLng":"(21.046041,105.8707809)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.849993,21.009772 ]
+    },
+    "properties": {
+    "name":"162 Ngọc Lâm, Hà Nội",
+    "LatLng":"(21.009772,105.849993)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.862198,20.9991169 ]
+    },
+    "properties": {
+    "name":"13 Lê Đại Hành, Hà Nội    ",
+    "LatLng":"(20.9991169,105.862198)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.7937276,20.9647279 ]
+    },
+    "properties": {
+    "name":"491 Kim Ngưu, Hà Nội",
+    "LatLng":"(20.9647279,105.7937276)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.830645,21.016982 ]
+    },
+    "properties": {
+    "name":"68 Phùng Hưng, Hà Đông  ",
+    "LatLng":"(21.016982,105.830645)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8174835,21.0122022 ]
+    },
+    "properties": {
+    "name":"99 Xã Đàn, Hà Nội",
+    "LatLng":"(21.0122022,105.8174835)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.872259,21.043498 ]
+    },
+    "properties": {
+    "name":"61 Yên Lãng, Hà Nội",
+    "LatLng":"(21.043498,105.872259)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.782508,21.036243 ]
+    },
+    "properties": {
+    "name":"192 Nguyễn Văn Cừ, Hà Nội",
+    "LatLng":"(21.036243,105.782508)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.860399,21.010079 ]
+    },
+    "properties": {
+    "name":"K1 -2A Tầng 1 TT-TM Indochina Plaza, Hà Nội",
+    "LatLng":"(21.010079,105.860399)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.849511,20.983622 ]
+    },
+    "properties": {
+    "name":"226 Lò Đúc, Hà Nội",
+    "LatLng":"(20.983622,105.849511)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.8064725,21.0167469 ]
+    },
+    "properties": {
+    "name":"128 Tân Mai, Hà Nội",
+    "LatLng":"(21.0167469,105.8064725)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 105.805402,20.992873 ]
+    },
+    "properties": {
+    "name":"145 Nguyễn Chí Thanh, Hà Nội",
+    "LatLng":"(20.992873,105.805402)"
+    }
+  }
+]
+}
