@@ -1501,11 +1501,11 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 105.6655936,18.6726075 ]
+       "coordinates":  [ 21.034052, 105.854529 ]
     },
     "properties": {
     "name":"33 Nguyễn Hữu Huân, Q.Hoàn Kiếm",
-    "LatLng":"18.6726075,105.6655936)"
+    "LatLng":"21.034052, 105.854529)"
     }
   },
   {
