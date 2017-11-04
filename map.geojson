@@ -5,7 +5,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 105.8277374,21.0197216 ]
+       "coordinates":  [21.019702, 105.827742]
     },
     "properties": {
     "Address":"123 Ô Chợ Dừa, Hà Nội, Vietnam",
@@ -17,7 +17,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 105.845417,21.024906 ]
+       "coordinates":  [21.024906,105.845417]
     },
     "properties": {
     "Address":"56 Lý Thường Kiệt, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội, Vietnam",
@@ -29,7 +29,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 105.8221613,21.0261461 ]
+       "coordinates":  [ 21.0261461,105.8221613 ]
     },
     "properties": {
     "Address":"Tòa nhà D2 Giảng Võ, Quận Ba Đình, Hà Nội",
@@ -41,7 +41,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 105.872864,21.044474 ]
+       "coordinates":  [ 21.044474,105.872864 ]
     },
     "properties": {
     "Address":"187 Nguyễn Văn Cừ, Phường Ngọc Lâm, Quận Long Biên, Hà Nội",
@@ -53,7 +53,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 105.8682811,20.9917435 ]
+       "coordinates":  [ 20.9917435,105.8682811 ]
     },
     "properties": {
     "Address":"Park 3 – Park Hill, Khu đô thị Times City, P.Mai Động, Q.Hoàng Mai, Hà Nội",
@@ -65,7 +65,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 105.8471265,21.0386985 ]
+       "coordinates":  [ 21.0386985,105.8471265 ]
     },
     "properties": {
     "Address":"3 Hàng Cót, P.Hàng Mã, Q.Hoàn Kiếm, Hà Nội ",
@@ -77,7 +77,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 105.8008751,21.007211 ]
+       "coordinates":  [ 21.007211,105.8008751 ]
     },
     "properties": {
     "Address":"Lô T1.5, Tầng 1 Tòa nhà 34T, khu đô thị mới Trung Hòa, Nhân Chính, đường Hoàng Đạo Thúy, phường Trung Hòa, quận Cầu Giấy, Hà Nội",
@@ -89,7 +89,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 105.850356,21.010551 ]
+       "coordinates":  [ 21.010551,105.850356 ]
     },
     "properties": {
     "Address":"19 Thái Phiên, Lê Đại Hành, Hà Nội, Vietnam",
@@ -101,7 +101,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ 105.848969,21.02309 ]
+       "coordinates":  [ 21.02309,105.848969 ]
     },
     "properties": {
     "Address":"16 Quang Trung, Trần Hưng Đạo, Hà Nội, Vietnam",
