@@ -9,8 +9,7 @@
     },
     "properties": {
     "Address":"123 Ô Chợ Dừa, Hà Nội, Vietnam",
-    "name": "Regiustea",
-    "LatLng":"(21.0197216,105.8277374)"
+    "name": "Regiustea"
     }
   },
   {
@@ -21,8 +20,7 @@
     },
     "properties": {
     "Address":"56 Lý Thường Kiệt, Trần Hưng Đạo, Hoàn Kiếm, Hà Nội, Vietnam",
-    "name": "Gong Cha Lý Thường Kiệt",
-    "LatLng":"(21.024991, 105.845442)"
+    "name": "Gong Cha Lý Thường Kiệt"
     }
   },
   {
@@ -33,8 +31,7 @@
     },
     "properties": {
     "Address":"Tòa nhà D2 Giảng Võ, Quận Ba Đình, Hà Nội",
-    "name": "Gong Cha Giảng Võ",
-    "LatLng":"(21.025982,105.822237)"
+    "name": "Gong Cha Giảng Võ"
     }
   },
   {
@@ -45,8 +42,7 @@
     },
     "properties": {
     "Address":"187 Nguyễn Văn Cừ, Phường Ngọc Lâm, Quận Long Biên, Hà Nội",
-    "name": "Gong Cha Nguyễn Văn Cừ - Long Biên",
-    "LatLng":"(21.044466, 105.872867)"
+    "name": "Gong Cha Nguyễn Văn Cừ - Long Biên"
     }
   },
   {
@@ -57,8 +53,7 @@
     },
     "properties": {
     "Address":"Park 3 – Park Hill, Khu đô thị Times City, P.Mai Động, Q.Hoàng Mai, Hà Nội",
-    "name": "Gong Cha Times City",
-    "LatLng":"(20.992169, 105.869502)"
+    "name": "Gong Cha Times City"
     }
   },
   {
@@ -69,8 +64,7 @@
     },
     "properties": {
     "Address":"3 Hàng Cót, P.Hàng Mã, Q.Hoàn Kiếm, Hà Nội ",
-    "name": "Gong Cha Hàng Cót",
-    "LatLng":"(21.038703, 105.847136)"
+    "name": "Gong Cha Hàng Cót"
     }
   },
   {
@@ -81,8 +75,7 @@
     },
     "properties": {
     "Address":"Lô T1.5, Tầng 1 Tòa nhà 34T, khu đô thị mới Trung Hòa, Nhân Chính, đường Hoàng Đạo Thúy, phường Trung Hòa, quận Cầu Giấy, Hà Nội",
-    "name": "Gong Cha Hoàng Đạo Thúy",
-    "LatLng":"(21.007211,105.8008751)"
+    "name": "Gong Cha Hoàng Đạo Thúy"
     }
   },
   {
@@ -93,8 +86,7 @@
     },
     "properties": {
     "Address":"19 Thái Phiên, Lê Đại Hành, Hà Nội, Vietnam",
-    "name": "Royal Tea Thái Phiên",
-    "LatLng":"(21.010551,105.850356)"
+    "name": "Royal Tea Thái Phiên"
     }
   },
   {
@@ -105,8 +97,7 @@
     },
     "properties": {
     "Address":"16 Quang Trung, Trần Hưng Đạo, Hà Nội, Vietnam",
-    "name": "Royal Tea Quang Trung",
-    "LatLng":"(21.02309,105.848969)"
+    "name": "Royal Tea Quang Trung"
     }
   },
   {
@@ -117,8 +108,7 @@
     },
     "properties": {
     "Address":"18 Ngô Quyền ,Hoàn Kiếm, Hà Nội, Vietnam",
-    "name": "Royal Tea Ngô Quyền",
-    "LatLng":"(21.019864,105.8534968)"
+    "name": "Royal Tea Ngô Quyền"
     }
   },
   {
@@ -129,8 +119,7 @@
     },
     "properties": {
     "Address":"19B10 Phạm Ngọc Thạch, Đống Đa,  Hà Nội",
-    "name": "Royal   Tea Phạm Ngọc Thạch",
-    "LatLng":"(21.008937, 105.834775)"
+    "name": "Royal   Tea Phạm Ngọc Thạch"
     }
   },
   {
@@ -141,8 +130,7 @@
     },
     "properties": {
     "Address":"1 Phan Đình Phùng, Hàng Mã, Hà Nội, Vietnam",
-    "name": "Royal Tea Phan Đình Phùng",
-    "LatLng":"(21.039613, 105.846892)"
+    "name": "Royal Tea Phan Đình Phùng"
     }
   },
   {
@@ -153,8 +141,7 @@
     },
     "properties": {
     "Address":"Toà nhà Hồ Gươm Plaza, 110 Trần Phú, P. Mỗ Lao, Q. Hà Đông",
-    "name": "Royal Tea Cơ Sở Trần Phú – Hà Đông",
-    "LatLng":"(20.9790077,105.7856378)"
+    "name": "Royal Tea Cơ Sở Trần Phú – Hà Đông"
     }
   },
   {
@@ -165,8 +152,7 @@
     },
     "properties": {
     "Address":"8 Ngô Quyền , Hoàn Kiếm , Hà Nội",
-    "name": "Royal Tea Ngô Quyền",
-    "LatLng":"(20.975778, 105.776288)"
+    "name": "Royal Tea Ngô Quyền"
     }
   },
   {
@@ -177,8 +163,7 @@
     },
     "properties": {
     "Address":"188 Cầu Giấy, Ngọc Khánh, Hà Nội, Vietnam",
-    "name": "Royal Tea Cầu Giấy",
-    "LatLng":"(21.0287821,105.8046538)"
+    "name": "Royal Tea Cầu Giấy"
     }
   },
   {
@@ -189,8 +174,7 @@
     },
     "properties": {
     "Address":"165 Giảng Võ, Chợ Dừa, Hà Nội, Vietnam",
-    "name": "Royal Tea Giảng Võ",
-    "LatLng":"(21.028165,105.8255329)"
+    "name": "Royal Tea Giảng Võ"
     }
   },
   {
@@ -201,8 +185,7 @@
     },
     "properties": {
     "Address":"2 Cửa Nam, Hoàn Kiếm, Hà Nội",
-    "name": "Royal Tea Cửa Nam",
-    "LatLng":"(21.027914,105.842557)"
+    "name": "Royal Tea Cửa Nam"
     }
   },
   {
@@ -213,8 +196,7 @@
     },
     "properties": {
     "Address":"64 Trần Đăng Ninh, Hà Nội",
-    "name": "Royal Tea Trần Đăng Ninh",
-    "LatLng":"(21.038839, 105.792437)"
+    "name": "Royal Tea Trần Đăng Ninh"
     }
   },
   {
@@ -225,8 +207,7 @@
     },
     "properties": {
     "Address":"76 Đào Tấn, Cống Vị, Quận Ba Đình, Hà Nội",
-    "name": "Royal Tea Đào Tấn",
-    "LatLng":"(21.0330909,105.8069971)"
+    "name": "Royal Tea Đào Tấn"
     }
   },
   {
@@ -237,8 +218,7 @@
     },
     "properties": {
     "Address":"Tầng 1 TTTM Hồ Gươm Plaza, 110 Trần Phú, Mỗ Lao, Hà Đông, Hà Nội, Quận Hà Đông, Hà Nội",
-    "name": "Royal Tea Trần Phú",
-    "LatLng":"(20.9790077,105.7856378)"
+    "name": "Royal Tea Trần Phú"
     }
   },
   {
@@ -249,8 +229,7 @@
     },
     "properties": {
     "Address":"5 Hàng Cá, Hà Nội",
-    "name": "Royal Tea Hàng Cá",
-    "LatLng":"(21.036057,105.849208)"
+    "name": "Royal Tea Hàng Cá"
     }
   },
   {
@@ -261,8 +240,7 @@
     },
     "properties": {
     "Address":"18 Ngô Quyền, Tràng Tiền, Quận Hoàn Kiếm, Hà Nội",
-    "name": "Royal Tea Ngô Quyền",
-    "LatLng":"(21.02472,105.855039)"
+    "name": "Royal Tea Ngô Quyền
     }
   },
   {
@@ -273,8 +251,7 @@
     },
     "properties": {
     "Address":"142 Vũ Phạm Hàm, Yên Hoà, Quận Cầu Giấy, Hà Nội",
-    "name": "Royal Tea Vũ Phạm Hàm",
-    "LatLng":"(21.019441, 105.800142)"
+    "name": "Royal Tea Vũ Phạm Hàm"
     }
   },
   {
@@ -285,8 +262,7 @@
     },
     "properties": {
     "Address":"105 Trần Duy Hưng, Hà Nội",
-    "name": "Royal Tea Trần Duy Hưng",
-    "LatLng":"(21.0114424,105.8003101)"
+    "name": "Royal Tea Trần Duy Hưng"
     }
   },
   {
@@ -297,8 +273,7 @@
     },
     "properties": {
     "Address":"515 Nguyễn Trãi, Thanh Xuân Nam, Quận Thanh Xuân, Hà Nội",
-    "name": "Royal Tea Nguyễn Trãi",
-    "LatLng":"(20.987148,105.797487)"
+    "name": "Royal Tea Nguyễn Trãi"
     }
   },
   {
@@ -309,8 +284,7 @@
     },
     "properties": {
     "Address":"23 Lê Đại Hành, Hai Bà Trưng",
-    "name": "Dingtea Cơ sở 1",
-    "LatLng":"(21.024045, 105.853030)"
+    "name": "Dingtea Cơ sở 1"
     }
   },
   {
@@ -321,8 +295,7 @@
     },
     "properties": {
     "Address":"163 Giảng Võ, Đống Đa",
-    "name": "Dingtea Cơ sở 2",
-    "LatLng":"(21.028183,105.825554)"
+    "name": "Dingtea Cơ sở 2"
     }
   },
   {
@@ -333,8 +306,7 @@
     },
     "properties": {
     "Address":"47 Hàng Cót, Hoàn Kiếm",
-    "name": "Dingtea Cơ sở 3",
-    "LatLng":"(21.037158, 105.847202)"
+    "name": "Dingtea Cơ sở 3"
     }
   },
   {
@@ -345,8 +317,7 @@
     },
     "properties": {
     "Address":"180 Cầu Giấy, Cầu Giấy",
-    "name": "Dingtea Cơ sở 4",
-    "LatLng":"(21.033702, 105.797715)"
+    "name": "Dingtea Cơ sở 4"
     }
   },
   {
@@ -357,8 +328,7 @@
     },
     "properties": {
     "Address":"102 Trần Duy Hưng, Cầu Giấy",
-    "name": "Dingtea Cơ sở 5",
-    "LatLng":"(21.011543,105.800354)"
+    "name": "Dingtea Cơ sở 5"
     }
   },
   {
@@ -369,8 +339,7 @@
     },
     "properties": {
     "Address":"1B Nguyễn Hữu Huân, Hoàn Kiếm",
-    "name": "Dingtea Cơ sở 6",
-    "LatLng":"(21.035044,105.854482)"
+    "name": "Dingtea Cơ sở 6"
     }
   },
   {
@@ -381,8 +350,7 @@
     },
     "properties": {
     "Address":"26 Thái Hà, Đống Đa",
-    "name": "Dingtea Cơ sở 7",
-    "LatLng":"(21.01005,105.822993)"
+    "name": "Dingtea Cơ sở 7"
     }
   },
   {
@@ -393,8 +361,7 @@
     },
     "properties": {
     "Address":"15A Đào Tấn, Ba Đình",
-    "name": "Dingtea Cơ sở 8",
-    "LatLng":"(21.0337384,105.8060407)"
+    "name": "Dingtea Cơ sở 8"
     }
   },
   {
@@ -405,8 +372,7 @@
     },
     "properties": {
     "Address":"306 Nguyễn Trãi, Thanh Xuân",
-    "name": "Dingtea Cơ sở 9",
-    "LatLng":"(20.996559,105.810742)"
+    "name": "Dingtea Cơ sở 9"
     }
   },
   {
@@ -417,8 +383,7 @@
     },
     "properties": {
     "Address":"12 Trần Phú, Hà Đông",
-    "name": "Dingtea Cơ sở 11",
-    "LatLng":"(20.974954, 105.780934)"
+    "name": "Dingtea Cơ sở 11"
     }
   },
   {
@@ -429,8 +394,7 @@
     },
     "properties": {
     "Address":"8B4 Kim Liên, Phạm Ngọc Thạch, Đống Đa",
-    "name": "Dingtea Cơ sở 12",
-    "LatLng":"(21.010427, 105.836544)"
+    "name": "Dingtea Cơ sở 12"
     }
   },
   {
@@ -441,8 +405,7 @@
     },
     "properties": {
     "Address":"266 Nguyễn Văn Cừ, Long Biên",
-    "name": "Dingtea Cơ sở 13",
-    "LatLng":"(21.044690, 105.873957)"
+    "name": "Dingtea Cơ sở 13"
     }
   },
   {
@@ -453,8 +416,7 @@
     },
     "properties": {
     "Address":"114 Hồ Tùng Mậu, Cầu Giấy",
-    "name": "Dingtea Cơ sở 14",
-    "LatLng":"(21.040606, 105.766025)"
+    "name": "Dingtea Cơ sở 14"
     }
   },
   {
@@ -465,8 +427,7 @@
     },
     "properties": {
     "Address":"28A Cao Lỗ, Đông Anh",
-    "name": "Dingtea Cơ sở 15",
-    "LatLng":"(21.0070884,105.7929755"
+    "name": "Dingtea Cơ sở 15"
     }
   },
   {
@@ -477,8 +438,7 @@
     },
     "properties": {
     "Address":"Tầng 1 - Big C - Trần Duy Hưng",
-    "name": "Dingtea Cơ sở 16",
-    "LatLng":"(20.983488,105.8464319)"
+    "name": "Dingtea Cơ sở 16"
     }
   },
   {
@@ -489,8 +449,7 @@
     },
     "properties": {
     "Address":"20 Tân Mai, Hoàng Mai",
-    "name": "Dingtea Cơ sở 17",
-    "LatLng":"(20.983479, 105.846413)"
+    "name": "Dingtea Cơ sở 17"
     }
   },
   {
@@ -501,8 +460,7 @@
     },
     "properties": {
     "Address":"28 Trưng Nhị - Hà Đông",
-    "name": "Dingtea Cơ sở 18",
-    "LatLng":"(21.017223,105.847098)"
+    "name": "Dingtea Cơ sở 18"
     }
   },
   {
@@ -513,8 +471,7 @@
     },
     "properties": {
     "Address":"69 Quang Trung, Hà Nội",
-    "name": "Dingtea Cơ sở 19",
-    "LatLng":"(21.041502,105.826212)"
+    "name": "Dingtea Cơ sở 19"
     }
   },
   {
@@ -525,8 +482,7 @@
     },
     "properties": {
     "Address":"109A Thụy Khuê - Tây Hồ",
-    "name": "Dingtea Cơ sở 20",
-    "LatLng":"(21.0229818,105.8063029)"
+    "name": "Dingtea Cơ sở 20"
     }
   },
   {
@@ -537,8 +493,7 @@
     },
     "properties": {
     "Address":"72 Chùa Láng - Đống Đa",
-    "name":  "Dingtea Cơ sở 21",
-    "LatLng":"(21.0349049,105.824603)"
+    "name":  "Dingtea Cơ sở 21"
     }
   },
   {
@@ -549,8 +504,7 @@
     },
     "properties": {
     "Address":"164C Đội Cấn",
-    "name":  "Dingtea Cơ sở 22",
-    "LatLng":"(21.0118,105.797236)"
+    "name":  "Dingtea Cơ sở 22"
     }
   },
   {
@@ -561,8 +515,7 @@
     },
     "properties": {
     "Address":"100 Trung Kính",
-    "name":  "Dingtea Cơ sở 23",
-    "LatLng":"(21.011805,105.7950419)"
+    "name":  "Dingtea Cơ sở 23"
     }
   },
   {
@@ -573,8 +526,7 @@
     },
     "properties": {
     "Address":"18 Lê Văn Hiến - Cổ Nhuế",
-    "name":  "Dingtea Cơ sở 24",
-    "LatLng":"(21.0508308,105.8934912)"
+    "name":  "Dingtea Cơ sở 24"
     }
   },
   {
@@ -585,8 +537,7 @@
     },
     "properties": {
     "Address":"Tầng 1 - Big C Long Biên",
-    "name":  "Dingtea Cơ sở 25",
-    "LatLng":"(21.0508358,105.8912971)"
+    "name":  "Dingtea Cơ sở 25"
     }
   },
   {
@@ -597,8 +548,7 @@
     },
     "properties": {
     "Address":"T103-1 TTTM Aeon Mall, Long Biên",
-    "name":  "Dingtea Cơ sở 26",
-    "LatLng":"(21.027394,105.8969159)"
+    "name":  "Dingtea Cơ sở 26"
     }
   },
   {
@@ -609,8 +559,7 @@
     },
     "properties": {
     "Address":"Tầng 3,TTTM Hồ Gươm Plaza, Hà Đông",
-    "name":  "Dingtea Cơ sở 27",
-    "LatLng":"(21.0416351,105.7914834)"
+    "name":  "Dingtea Cơ sở 27"
     }
   },
   {
@@ -621,8 +570,7 @@
     },
     "properties": {
     "Address":"273 Tô Hiệu, Cầu Giấy",
-    "name":  "Dingtea Cơ sở 27",
-    "LatLng":"(21.070986,105.902732)"
+    "name":  "Dingtea Cơ sở 28"
     }
   },
   {
@@ -633,8 +581,7 @@
     },
     "properties": {
     "Address":"841 Ngô Gia Tự, Long Biên",
-    "name":  "Dingtea Cơ sở 28",
-    "LatLng":"(21.08414,105.9422)"
+    "name":  "Dingtea Cơ sở 29"
     }
   },
   {
@@ -645,8 +592,7 @@
     },
     "properties": {
     "Address":"1A-M3 TT6 Bắc Linh Đàm, Hà Nội",
-    "name":  "Dingtea Cơ sở 30",
-    "LatLng":"(21.0193985,105.8283268)"
+    "name":  "Dingtea Cơ sở 30"
     }
   },
   {
@@ -657,8 +603,7 @@
     },
     "properties": {
     "Address":"82-84 Ô Chợ Dừa, Đống Đa, Hà Nội",
-    "name": "Dingtea Cơ sở 31",
-    "LatLng":"(21.0095242,105.7831409)"
+    "name": "Dingtea Cơ sở 31"
     }
   },
   {
@@ -669,8 +614,7 @@
     },
     "properties": {
     "Address":"Số 2 Nguyễn Xiển, Hà Nội",
-    "name": "Dingtea Cơ sở 31",
-    "LatLng":"(21.028687,105.849682)"
+    "name": "Dingtea Cơ sở 31"
     }
   },
   {
@@ -681,8 +625,7 @@
     },
     "properties": {
     "Address":"Số 1 Nhà Chung, Hà Nội",
-    "name": "Dingtea Cơ sở 32",
-    "LatLng":"(21.041776,105.84732"
+    "name": "Dingtea Cơ sở 32"
     }
   },
   {
@@ -693,8 +636,7 @@
     },
     "properties": {
     "Address":"27 Hàng Than, Ha Nội",
-    "name": "Dingtea Cơ sở 33",
-    "LatLng":"(20.9952,105.869431)"
+    "name": "Dingtea Cơ sở 33"
     }
   },
   {
@@ -705,8 +647,7 @@
     },
     "properties": {
     "Address":"Đ1-20 tầng B1T4 TTTM Times City, Hà Nội",
-    "name": "Dingtea Cơ sở 34",
-    "LatLng":"(20.995122, 105.869423)"
+    "name": "Dingtea Cơ sở 34"
     }
   },
   {
@@ -717,8 +658,7 @@
     },
     "properties": {
     "Address":"B2-R4-10B TTTM Royal City, Hà Nội",
-    "name": "Dingtea Cơ sở 35",
-    "LatLng":"(21.0029896,105.813696)"
+    "name": "Dingtea Cơ sở 35"
     }
   },
   {
@@ -729,8 +669,7 @@
     },
     "properties": {
     "Address":"23E Hai Ba Trưng, Hà Nội",
-    "name": "Dingtea Cơ sở 36",
-    "LatLng":"(21.0239658,105.8528613)"
+    "name": "Dingtea Cơ sở 36"
     }
   },
   {
@@ -741,8 +680,7 @@
     },
     "properties": {
     "Address":"157 Trần Đại Nghĩa, Hà Nội",
-    "name": "Dingtea Cơ sở 37",
-    "LatLng":"(21.0011839,105.8430987)"
+    "name": "Dingtea Cơ sở 37"
     }
   },
   {
@@ -753,8 +691,7 @@
     },
     "properties": {
     "Address":"22 Điện Biên Phủ, Hà Nội",
-    "name": "Dingtea Cơ sở 38",
-    "LatLng":"(21.030043,105.8395299)"
+    "name": "Dingtea Cơ sở 38"
     }
   },
   {
@@ -765,8 +702,7 @@
     },
     "properties": {
     "Address":"100 Kim Giang, Hà Nội",
-    "name": "Dingtea Cơ sở 39",
-    "LatLng":"(20.9821702,105.8139022)"
+    "name": "Dingtea Cơ sở 39"
     }
   },
   {
@@ -777,8 +713,7 @@
     },
     "properties": {
     "Address":"103 Cầu Diễn, Hà Nội",
-    "name": "Dingtea Cơ sở 40",
-    "LatLng":"(21.03685,105.7616039)"
+    "name": "Dingtea Cơ sở 40"
     }
   },
   {
@@ -789,8 +724,7 @@
     },
     "properties": {
     "Address":"1194 Đường Láng, Hà Nội",
-    "name": "Dingtea Cơ sở 41",
-    "LatLng":"(21.019333,105.832689)"
+    "name": "Dingtea Cơ sở 41"
     }
   },
   {
@@ -801,8 +735,7 @@
     },
     "properties": {
     "Address":"241 Khâm Thiên, Hà Nội",
-    "name": "Dingtea Cơ sở 42",
-    "LatLng":"(21.047949,105.873304)"
+    "name": "Dingtea Cơ sở 42"
     }
   },
   {
@@ -813,8 +746,7 @@
     },
     "properties": {
     "Address":"355 Ngọc Lâm, Hà Nội",
-    "name": "Dingtea Cơ sở 43",
-    "LatLng":"(21.047954,105.8711099)"
+    "name": "Dingtea Cơ sở 43"
     }
   },
   {
@@ -825,8 +757,7 @@
     },
     "properties": {
     "Address":"50 Láng Hạ, Hà Nội",
-    "name": "Dingtea Cơ sở 44",
-    "LatLng":"(21.036371,105.787315)"
+    "name": "Dingtea Cơ sở 44"
     }
   },
   {
@@ -837,8 +768,7 @@
     },
     "properties": {
     "Address":"169 Xuân Thủy, Hà Nội",
-    "name": "Dingtea Cơ sở 45",
-    "LatLng":"(21.036376,105.7851209)"
+    "name": "Dingtea Cơ sở 45"
     }
   },
   {
@@ -849,8 +779,7 @@
     },
     "properties": {
     "Address":"47 Huỳnh Thúc Kháng, Hà Nội",
-    "name": "Dingtea Cơ sở 46",
-    "LatLng":"(21.0187009,105.8081149)"
+    "name": "Dingtea Cơ sở 46"
     }
   },
   {
@@ -861,8 +790,7 @@
     },
     "properties": {
     "Address":"HH1A Bán đảo Linh Đàm, Hà Nội",
-    "name": "Dingtea Cơ sở 47",
-    "LatLng":"(21.009338,105.860625)"
+    "name": "Dingtea Cơ sở 47"
     }
   },
   {
@@ -873,8 +801,7 @@
     },
     "properties": {
     "Address":"252 Trần Khát Chân, Hà Nội",
-    "name": "Dingtea Cơ sở 48",
-    "LatLng":"(21.0460394,105.7855047)"
+    "name": "Dingtea Cơ sở 48"
     }
   },
   {
@@ -885,8 +812,7 @@
     },
     "properties": {
     "Address":"439 Hoàng Quốc Việt, Hà Nội",
-    "name": "Dingtea Cơ sở 49",
-    "LatLng":"(21.003131,105.864721)"
+    "name": "Dingtea Cơ sở 49"
     }
   },
   {
@@ -897,8 +823,7 @@
     },
     "properties": {
     "Address":"156 Lạc Trung, Hà Nội",
-    "name": "Dingtea Cơ sở 50",
-    "LatLng":"(21.030554,105.825653)"
+    "name": "Dingtea Cơ sở 50"
     }
   },
   {
@@ -909,8 +834,7 @@
     },
     "properties": {
     "Address":"46 Kim Mã, Hà Nội",
-    "name": "Dingtea Cơ sở 51",
-    "LatLng":"(21.047906,105.806055)"
+    "name": "Dingtea Cơ sở 51"
     }
   },
   {
@@ -921,8 +845,7 @@
     },
     "properties": {
     "Address":"59 Lạc Long Quân, Hà Nội",
-    "name": "Dingtea Cơ sở 52",
-    "LatLng":"(21.047911,105.8038609)"
+    "name": "Dingtea Cơ sở 52"
     }
   },
   {
@@ -933,8 +856,7 @@
     },
     "properties": {
     "Address":"185 Quang Trung, Hà Đông, Hà Nội",
-    "name": "Dingtea Cơ sở 53",
-    "LatLng":"(20.9691017,105.7715575)"
+    "name": "Dingtea Cơ sở 53"
     }
   },
   {
@@ -945,8 +867,7 @@
     },
     "properties": {
     "Address":"150 Lương Định Của, Hà Nội",
-    "name": "Dingtea Cơ sở 54",
-    "LatLng":"(21.003716,105.8337399)"
+    "name": "Dingtea Cơ sở 54"
     }
   },
   {
@@ -957,8 +878,7 @@
     },
     "properties": {
     "Address":"1C Hồ Đắc Di, Hà Nội",
-    "name": "Dingtea Cơ sở 55",
-    "LatLng":"(21.0104809,105.9348551)"
+    "name": "Dingtea Cơ sở 55"
     }
   },
   {
@@ -969,8 +889,7 @@
     },
     "properties": {
     "Address":"279 Ngô Xuân Quảng, Hà Nội",
-    "name": "Dingtea Cơ sở 56",
-    "LatLng":"(21.0343413,105.7703014)"
+    "name": "Dingtea Cơ sở 56"
     }
   },
   {
@@ -981,8 +900,7 @@
     },
     "properties": {
     "Address":"Sun Square 21 Lê Đức Thọ, Hà Nội",
-    "name": "Dingtea Cơ sở 57",
-    "LatLng":"(21.0349313,105.7681497)"
+    "name": "Dingtea Cơ sở 57"
     }
   },
   {
@@ -993,8 +911,7 @@
     },
     "properties": {
     "Address":"TTTM The Garden Mễ Trì, Hà Nội",
-    "name": "Dingtea Cơ sở 58",
-    "LatLng":"(21.0152501,105.7756279)"
+    "name": "Dingtea Cơ sở 58"
     }
   },
   {
@@ -1005,8 +922,7 @@
     },
     "properties": {
     "Address":"81 Nguyễn Trãi, Hà Nội",
-    "name": "Dingtea Cơ sở 59",
-    "LatLng":"(20.9731609,105.9232051)"
+    "name": "Dingtea Cơ sở 59"
     }
   },
   {
@@ -1017,8 +933,7 @@
     },
     "properties": {
     "Address":"18 Phố Trúc, Ecopark",
-    "name": "Dingtea Cơ sở 60",
-    "LatLng":"(20.9731659,105.921011)"
+    "name": "Dingtea Cơ sở 60"
     }
   },
   {
@@ -1029,8 +944,7 @@
     },
     "properties": {
     "Address":"425 Bạch Mai, Hà Nội",
-    "name": "Dingtea Cơ sở 61",
-    "LatLng":"(20.9857871,105.8578627)"
+    "name": "Dingtea Cơ sở 61"
     }
   },
   {
@@ -1041,8 +955,7 @@
     },
     "properties": {
     "Address":"69 Lô 7, Đền Lừ 2, Hà Nội",
-    "name": "Dingtea Cơ sở 62",
-    "LatLng":"(20.9857921,105.8556686)"
+    "name": "Dingtea Cơ sở 62"
     }
   },
   {
@@ -1053,8 +966,7 @@
     },
     "properties": {
     "Address":"42 Nguyễn Thị Định, Hà Nội",
-    "name": "Dingtea Cơ sở 63",
-    "LatLng":"(20.999715,105.828275)"
+    "name": "Dingtea Cơ sở 63"
     }
   },
   {
@@ -1065,8 +977,7 @@
     },
     "properties": {
     "Address":"BigC số 3 Lê Trọng Tấn, Hà Nội",
-    "name": "Dingtea Cơ sở 64",
-    "LatLng":"(21.0060977,105.8547291)"
+    "name": "Dingtea Cơ sở 64"
     }
   },
   {
@@ -1077,8 +988,7 @@
     },
     "properties": {
     "Address":"58 Võ Thị Sáu, Hà Nội",
-    "name": "Dingtea Cơ sở 65",
-    "LatLng":"(21.0061027,105.852535)"
+    "name": "Dingtea Cơ sở 65"
     }
   },
   {
@@ -1089,8 +999,7 @@
     },
     "properties": {
     "Address":"28A Xuân La, Hà Nội",
-    "name": "Dingtea Cơ sở 66",
-    "LatLng":"(21.0666128,105.8058303)"
+    "name": "Dingtea Cơ sở 66"
     }
   },
   {
@@ -1101,8 +1010,7 @@
     },
     "properties": {
     "Address":"105 Phố Nhổn, Hà Nội",
-    "name": "Dingtea Cơ sở 67",
-    "LatLng":"(21.027451,105.8220947)"
+    "name": "Dingtea Cơ sở 67"
     }
   },
   {
@@ -1113,8 +1021,7 @@
     },
     "properties": {
     "Address":"125 Trần Huy Liệu, Hà Nội",
-    "name": "Dingtea Cơ sở 68",
-    "LatLng":"(20.9865989,105.8326445)"
+    "name": "Dingtea Cơ sở 68"
     }
   },
   {
@@ -1125,8 +1032,7 @@
     },
     "properties": {
     "Address":"32 Trần Nguyên Đán, Định Công, Hà Nội",
-    "name": "Dingtea Cơ sở 69",
-    "LatLng":"(20.9861967,105.8312269)"
+    "name": "Dingtea Cơ sở 69"
     }
   },
   {
@@ -1137,8 +1043,7 @@
     },
     "properties": {
     "Address":"85 Nguyễn Khang, Hà Nội",
-    "name": "Dingtea Cơ sở 70",
-    "LatLng":"(20.9569987,105.8070074)"
+    "name": "Dingtea Cơ sở 70"
     }
   },
   {
@@ -1149,8 +1054,7 @@
     },
     "properties": {
     "Address":"CT8B Khu đô thị Đại Thanh, Hà Nội",
-    "name": "Dingtea Cơ sở 71",
-    "LatLng":"(20.8694694,105.8643921)"
+    "name": "Dingtea Cơ sở 71"
     }
   },
   {
@@ -1161,8 +1065,7 @@
     },
     "properties": {
     "Address":"47B Trần Phú, Thường Tín, Hà Nội",
-    "name": "Dingtea Cơ sở 72",
-    "LatLng":"(20.8694736,105.8625471)"
+    "name": "Dingtea Cơ sở 72"
     }
   },
   {
@@ -1173,8 +1076,7 @@
     },
     "properties": {
     "Address":"Học viện cảnh sát, Bắc Từ Liêm, Hà Nội",
-    "name": "Dingtea Cơ sở 73",
-    "LatLng":"(21.1368798,105.5044344)"
+    "name": "Dingtea Cơ sở 73"
     }
   },
   {
@@ -1185,8 +1087,7 @@
     },
     "properties": {
     "Address":"13 Nguyễn Thái Học, Sơn Tây, Hà Nội",
-    "name": "Dingtea Cơ sở 74",
-    "LatLng":"(21.1368848,105.5022403)"
+    "name": "Dingtea Cơ sở 74"
     }
   },
   {
@@ -1197,8 +1098,7 @@
     },
     "properties": {
     "Address":"Số 3A2 Shop House Vạn Phúc, Tố Hữu, Hà Nội",
-    "name": "Dingtea Cơ sở 75",
-    "LatLng":"(20.9838776,105.771517)"
+    "name": "Dingtea Cơ sở 75"
     }
   },
   {
@@ -1209,8 +1109,7 @@
     },
     "properties": {
     "Address":"A6-A7, Tầng 1 Tòa A TTTM Imperia Garden, Hà Nội",
-    "name": "Dingtea Cơ sở 76",
-    "LatLng":"(20.9974259,105.8012585)"
+    "name": "Dingtea Cơ sở 76"
     }
   },
   {
@@ -1221,8 +1120,7 @@
     },
     "properties": {
     "Address":"166 phố Ô Chợ Dừa, phường Ô Chợ Dừa, quận Đống Đa, Hanoi",
-    "name": "Bobapop - Taiwan Lattea",
-    "LatLng":"(21.0029914,105.8667444)"
+    "name": "Bobapop - Taiwan Lattea"
     }
   },
   {
@@ -1233,8 +1131,7 @@
     },
     "properties": {
     "Address":"232 Lạc Trung - Hai Bà Trưng, Hanoi, Vietnam",
-    "name": "Bobapop - Taiwan Lattea",
-    "LatLng":"(21.0151471,105.8177087)"
+    "name": "Bobapop - Taiwan Lattea"
     }
   },
   {
@@ -1245,8 +1142,7 @@
     },
     "properties": {
     "Address":"290 Thái Hà, Hanoi, Vietnam",
-    "name": "Bobapop - Taiwan Lattea",
-    "LatLng":"(21.029028,105.856491)"
+    "name": "Bobapop - Taiwan Lattea"
     }
   },
   {
@@ -1257,8 +1153,7 @@
     },
     "properties": {
     "Address":"Số 7 Trần Nguyên Hãn , Hoàn Kiếm, Hanoi, Vietnam",
-    "name": "Bobapop - Taiwan Lattea",
-    "LatLng":"(21.0394112,105.7907172"
+    "name": "Bobapop - Taiwan Lattea"
     }
   },
   {
@@ -1269,8 +1164,7 @@
     },
     "properties": {
     "Address":"56 Nguyễn Phong Sắc, Hanoi, Vietnam",
-    "name": "Bobapop - Taiwan Lattea",
-    "LatLng":"(20.9844003,105.7933862)"
+    "name": "Bobapop - Taiwan Lattea"
     }
   },
   {
@@ -1281,8 +1175,7 @@
     },
     "properties": {
     "Address":"50 Trần Phú, Hà Đông, Hanoi, Vietnam",
-    "name": "Bobapop - Taiwan Lattea",
-    "LatLng":"(20.9837383,105.8486099)"
+    "name": "Bobapop - Taiwan Lattea"
     }
   },
   {
@@ -1293,8 +1186,7 @@
     },
     "properties": {
     "Address":"120 Tân Mai, Phường Tân Mai, Quận Hoàng Mai, Hanoi",
-    "name": "Bobapop - Taiwan Lattea",
-    "LatLng":"(20.9837433,105.8464158)"
+    "name": "Bobapop - Taiwan Lattea"
     }
   },
   {
@@ -1305,8 +1197,7 @@
     },
     "properties": {
     "Address":"7 Lê Đại Hành, Hai Bà Trưng, Hanoi, Vietnam",
-    "name": "Bobapop - Taiwan Lattea",
-    "LatLng":"(21.022892,105.808883)"
+    "name": "Bobapop - Taiwan Lattea"
     }
   },
   {
@@ -1317,8 +1208,7 @@
     },
     "properties": {
     "Address":"10 Chùa Láng, Hanoi, Vietnam",
-    "name": "Bobapop - Taiwan Lattea",
-    "LatLng":"(21.0196168,105.8013395)"
+    "name": "Bobapop - Taiwan Lattea"
     }
   },
   {
@@ -1329,8 +1219,7 @@
     },
     "properties": {
     "Address":"18 đường Nguyễn Khang, phường Yên Hòa, Quận Cầu Giấy, Hà Nội",
-    "name": "Bobapop - Taiwan Lattea",
-    "LatLng":"(21.0196218,105.7991454)"
+    "name": "Bobapop - Taiwan Lattea"
     }
   },
   {
@@ -1341,8 +1230,7 @@
     },
     "properties": {
     "Address":"132 Phố Huế, Hanoi, Vietnam",
-    "name": "Bobapop - Taiwan Lattea",
-    "LatLng":"(21.027389,105.89911)"
+    "name": "Bobapop - Taiwan Lattea"
     }
   },
   {
@@ -1353,8 +1241,7 @@
     },
     "properties": {
     "Address":"Tầng 3, Aeon Long Biên,Hanoi, Vietnam",
-    "name": "Bobapop - Taiwan Lattea",
-    "LatLng":"(20.988945,105.8048318)"
+    "name": "Bobapop - Taiwan Lattea"
     }
   },
   {
@@ -1365,8 +1252,7 @@
     },
     "properties": {
     "Address":"18 Nguyễn Xiển, Thanh Xuân, Hanoi, Vietnam",
-    "name": "Bobapop - Taiwan Lattea",
-    "LatLng":"(20.9906761,105.8019329)"
+    "name": "Bobapop - Taiwan Lattea"
     }
   },
   {
@@ -1377,8 +1263,7 @@
     },
     "properties": {
     "Address":"Số 6 Hồ Tùng Mậu,Mai Dịch, Cầu Giấy, Mai Dich, Ha Noi, Vietnam",
-    "name": "Bobapop - Taiwan Lattea",
-    "LatLng":"(21.0337086,105.8059226)"
+    "name": "Bobapop - Taiwan Lattea"
     }
   },
   {
@@ -1389,8 +1274,7 @@
     },
     "properties": {
     "Address":"103 Đào Tấn, Ngọc Khánh, Ba Đình, Hà Nội, Vietnam",
-    "name": "Bobapop - Taiwan Lattea",
-    "LatLng":"(21.0099241,105.8358153"
+    "name": "Bobapop - Taiwan Lattea"
     }
   },
   {
@@ -1401,8 +1285,7 @@
     },
     "properties": {
     "Address":"5B7 Phạm Ngọc Thạch, Hanoi, Vietnam",
-    "name": "Bobapop - Taiwan Lattea",
-    "LatLng":"(20.9979109,105.8133579)"
+    "name": "Bobapop - Taiwan Lattea"
     }
   },
   {
@@ -1413,8 +1296,7 @@
     },
     "properties": {
     "Address":"Số 8 Thượng Đình,Khương Đình,Thanh Xuân, Hanoi, Vietnam",
-    "name": "Bobapop - Taiwan Lattea",
-    "LatLng":"(21.0134996,105.8192473)"
+    "name": "Bobapop - Taiwan Lattea"
     }
   },
   {
@@ -1425,8 +1307,7 @@
     },
     "properties": {
     "Address":"188 Thái Hà - Đống Đa - Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.0135176,105.8170653)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1437,8 +1318,7 @@
     },
     "properties": {
     "Address":"92 Cửa Bắc, Ba Đình, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.041506,105.8401629)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1449,8 +1329,7 @@
     },
     "properties": {
     "Address":"118 Phú Diễn, Q.Bắc Từ Liêm, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.0651094,105.7160469)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1461,8 +1340,7 @@
     },
     "properties": {
     "Address":"Lai Xá, Hoài Đức, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.0649892,105.7154776)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1473,8 +1351,7 @@
     },
     "properties": {
     "Address":"28B Nguyễn Khang,Cầu Giấy,HN",
-    "name": "TocoToco",
-    "LatLng":"(21.029677,105.7983269)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1485,8 +1362,7 @@
     },
     "properties": {
     "Address":"66 Trần Đại Nghĩa, HBT, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.0865201,105.7385336)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1497,8 +1373,7 @@
     },
     "properties": {
     "Address":"20 Nhổn,P.Tây Tựu, Bắc Từ Liêm",
-    "name": "TocoToco",
-    "LatLng":"(21.041548,105.794254)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1509,8 +1384,7 @@
     },
     "properties": {
     "Address":"175 Tô Hiệu,Dịch Vọng, Cầu Giấy",
-    "name": "TocoToco",
-    "LatLng":"(21.041553,105.7920599)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1521,8 +1395,7 @@
     },
     "properties": {
     "Address":"331 Kim Mã, Ba Đình, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(20.9973027,105.8503965)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1533,8 +1406,7 @@
     },
     "properties": {
     "Address":"459 Bạch Mai, HBT, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(20.9973077,105.8482024)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1545,8 +1417,7 @@
     },
     "properties": {
     "Address":"15 Nguyễn Văn Lộc, Hà Đông",
-    "name": "TocoToco",
-    "LatLng":"(21.016277,105.6031342)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1557,8 +1428,7 @@
     },
     "properties": {
     "Address":"115 Tây Sơn, Đan Phượng, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.0482891,105.8744495)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1569,8 +1439,7 @@
     },
     "properties": {
     "Address":"Ngọc Lâm, Long Biên, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(20.9950183,105.869116)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1581,8 +1450,7 @@
     },
     "properties": {
     "Address":"K4 - Đường Thanh Niên, Time City",
-    "name": "TocoToco",
-    "LatLng":"(20.921112,105.8532018)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1593,8 +1461,7 @@
     },
     "properties": {
     "Address":"Km 13, Quốc lộ 1A cũ, Ngọc Hồi, Thanh Trì",
-    "name": "TocoToco",
-    "LatLng":"(21.033962,105.854497)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1605,8 +1472,7 @@
     },
     "properties": {
     "Address":"11A Đào Tấn",
-    "name": "TocoToco",
-    "LatLng":"(21.0322088,105.8083267)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1617,8 +1483,7 @@
     },
     "properties": {
     "Address":"350 Nguyễn Trãi, Nam Từ Liêm, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.0218428,105.9729255)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1629,8 +1494,7 @@
     },
     "properties": {
     "Address":"Tầng 5 TTTM Artemis, số 3 Lê Trọng Tấn",
-    "name": "TocoToco",
-    "LatLng":"(20.9650883,105.7682795)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1641,8 +1505,7 @@
     },
     "properties": {
     "Address":"237 Quang Trung, Hà Đông, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.03328,105.770675)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1653,8 +1516,7 @@
     },
     "properties": {
     "Address":"157 Nguyễn Văn Cừ, Long Biên, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.0496827,105.8815168)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1665,8 +1527,7 @@
     },
     "properties": {
     "Address":"259A Bạch Mai, HBT, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.0039544,105.8502631)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1677,8 +1538,7 @@
     },
     "properties": {
     "Address":"19, Khâm Thiên, Đống Đa, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.000396,105.816162)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1689,8 +1549,7 @@
     },
     "properties": {
     "Address":"60 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.0368172,105.7755678)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1701,8 +1560,7 @@
     },
     "properties": {
     "Address":"114 Cầu Gỗ, Hoàn Kiếm",
-    "name": "TocoToco",
-    "LatLng":"(21.006304,105.831964)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1713,8 +1571,7 @@
     },
     "properties": {
     "Address":"T6 Vincom Phạm Ngọc Thạch, Đống Đa",
-    "name": "TocoToco",
-    "LatLng":"(21.084348,105.942223)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1725,8 +1582,7 @@
     },
     "properties": {
     "Address":"451 Bạch Mai, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.1256261,105.499905)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1737,8 +1593,7 @@
     },
     "properties": {
     "Address":"262 Cầu Giấy, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.029886,105.80218)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1749,8 +1604,7 @@
     },
     "properties": {
     "Address":"54 Cầu Giấy, Ba Đình, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.034435,105.7937259)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1761,8 +1615,7 @@
     },
     "properties": {
     "Address":"Số 2 Trần Thái Tông, Cầu Giấy",
-    "name": "TocoToco",
-    "LatLng":"(21.0360519,105.7870825)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1773,8 +1626,7 @@
     },
     "properties": {
     "Address":"146 Ô Chợ Dừa, Đống Đa, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.026273,105.833554)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1785,8 +1637,7 @@
     },
     "properties": {
     "Address":"59 Tôn Đức Thắng, Đống Đa, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.026246,105.8313419)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1797,8 +1648,7 @@
     },
     "properties": {
     "Address":"387 Trương Định, Hoàng Mai",
-    "name": "TocoToco",
-    "LatLng":"(21.0741981,105.7749158)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1809,8 +1659,7 @@
     },
     "properties": {
     "Address":"93 Lê Văn Hiến, Bắc Từ Liêm, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.0146954,105.9364252)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1821,8 +1670,7 @@
     },
     "properties": {
     "Address":"679 Quang Trung, Phú La, Hà Đông, Hanoi",
-    "name": "TocoToco",
-    "LatLng":"(21.0322356,105.8526759)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1833,8 +1681,7 @@
     },
     "properties": {
     "Address":"57 Cầu Gỗ, Hoàn Kiếm, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.0322406,105.8504818)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1845,8 +1692,7 @@
     },
     "properties": {
     "Address":"42F Lý Thường Kiệt, Hoàn Kiếm",
-    "name": "TocoToco",
-    "LatLng":"(21.010375,105.8364571)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1857,8 +1703,7 @@
     },
     "properties": {
     "Address":"14b4 Phạm Ngọc Thạch,Hà Nội ",
-    "name": "TocoToco",
-    "LatLng":"(21.034712,105.827667)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1869,8 +1714,7 @@
     },
     "properties": {
     "Address":"137 Tây Sơn - Đống Đa - Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.011389,105.8234609)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1881,8 +1725,7 @@
     },
     "properties": {
     "Address":"Số 2 Nguyễn Văn Tố, Hoàn Kiếm, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.032021,105.8444689)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1893,8 +1736,7 @@
     },
     "properties": {
     "Address":"253 Trần Quốc Hoàn,Dịch Vọng, Cầu Giấy",
-    "name": "TocoToco",
-    "LatLng":"(21.01054,105.849226)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1905,8 +1747,7 @@
     },
     "properties": {
     "Address":"25 Lê Đại Hành, HBT, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.010539,105.8470369)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1917,8 +1758,7 @@
     },
     "properties": {
     "Address":"12 Tân Mai, Hoàng Mai",
-    "name": "TocoToco",
-    "LatLng":"(21.0280475,105.812417)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1929,8 +1769,7 @@
     },
     "properties": {
     "Address":"54 Nguyễn Chí Thanh, Ba Đình, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.025119,105.853137)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1941,8 +1780,7 @@
     },
     "properties": {
     "Address":"4B Hàng Bài, Quận Hoàn Kiếm, Hà Nội",
-    "name": "TocoToco",
-    "LatLng":"(21.0250999,105.844713)"
+    "name": "TocoToco"
     }
   },
   {
@@ -1953,8 +1791,7 @@
     },
     "properties": {
     "Address":"60 Lý Thường Kiệt, Hà Nội",
-    "name": "Hefkcha Lí Thường Kiệ",
-    "LatLng":"(21.023497,105.850111)"
+    "name": "Hefkcha Lí Thường Kiệt"
     }
   },
   {
@@ -1965,8 +1802,7 @@
     },
     "properties": {
     "Address":"42C Lý Thường Kiệt, Hà Nội",
-    "name": "Heekcaa Lí Thường Kiệt",
-    "LatLng":"(21.023502,105.8479169)"
+    "name": "Heekcaa Lí Thường Kiệt"
     }
   },
   {
@@ -1977,8 +1813,7 @@
     },
     "properties": {
     "Address":"7 Lê Đại Hành, Hà Nội",
-    "name": "Heekcaa Lê Đại Hành",
-    "LatLng":"(21.0193681,105.8279079)"
+    "name": "Heekcaa Lê Đại Hành"
     }
   },
   {
@@ -1989,8 +1824,7 @@
     },
     "properties": {
     "Address":"51A Ô Chợ Dừa, Đống Đa, Hà Nội",
-    "name": "Wang tea",
-    "LatLng":"(21.004779,105.835717)"
+    "name": "Wang tea"
     }
   },
   {
@@ -2001,8 +1835,7 @@
     },
     "properties": {
     "Address":"Số 4 - B14 Lương Định Của, Hà Nội",
-    "name": "Taster's Choice",
-    "LatLng":"(21.018859,105.851738)"
+    "name": "Taster's Choice"
     }
   },
   {
@@ -2013,8 +1846,7 @@
     },
     "properties": {
     "Address":"30 Phố Huế, Hà Nội",
-    "name": "Taster's Choice",
-    "LatLng":"(21.018864,105.8495439)"
+    "name": "Taster's Choice"
     }
   },
   {
@@ -2025,8 +1857,7 @@
     },
     "properties": {
     "Address":"58 Chùa Láng, Hà Nội",
-    "name": "Taster's Choice",
-    "LatLng":"(21.001883,105.844356)"
+    "name": "Taster's Choice"
     }
   },
   {
@@ -2037,8 +1868,7 @@
     },
     "properties": {
     "Address":"73 Lê Thanh Nghị, Hà Nội",
-    "name": "Taster's Choice",
-    "LatLng":"(21.0194178,105.8278175)"
+    "name": "Taster's Choice"
     }
   },
   {
@@ -2049,8 +1879,7 @@
     },
     "properties": {
     "Address":"71 Ô Chợ Dừa, Hà Nội",
-    "name": "Taster's Choice",
-    "LatLng":"(21.0194228,105.8256234)"
+    "name": "Taster's Choice"
     }
   },
   {
@@ -2061,8 +1890,7 @@
     },
     "properties": {
     "Address":"212C Nguyễn Trãi, Hà Nội",
-    "name": "Taster's Choice",
-    "LatLng":"(20.9903587,105.7992885)"
+    "name": "Taster's Choice"
     }
   },
   {
@@ -2073,8 +1901,7 @@
     },
     "properties": {
     "Address":"20 Lê Đại Hành, Hai Bà Trưng, Hà Nội",
-    "name": "Citeafun",
-    "LatLng":"(21.0209301,105.8256346)"
+    "name": "Citeafun"
     }
   },
   {
@@ -2085,8 +1912,7 @@
     },
     "properties": {
     "Address":"34 Hoàng Cầu, Đống Đa, Hà Nội",
-    "name": "Citeafun",
-    "LatLng":"(21.0036977,105.84788)"
+    "name": "Citeafun"
     }
   },
   {
@@ -2097,8 +1923,7 @@
     },
     "properties": {
     "Address":"17 Tạ Quang Bửu, Hai Bà Trưng, Hà Nội",
-    "name": "Citeafun",
-    "LatLng":"(21.0037027,105.8456859)"
+    "name": "Citeafun"
     }
   },
   {
@@ -2109,8 +1934,7 @@
     },
     "properties": {
     "Address":"124 Quán Thánh, Hà Nội",
-    "name": "Goky",
-    "LatLng":"(21.042431,105.8403999)"
+    "name": "Goky"
     }
   },
   {
@@ -2121,8 +1945,7 @@
     },
     "properties": {
     "Address":"183 Giảng Võ, Hà Nội",
-    "name": "Goky",
-    "LatLng":"(21.0121676,105.8518421)"
+    "name": "Goky"
     }
   },
   {
@@ -2133,8 +1956,7 @@
     },
     "properties": {
     "Address":"233 Phố Huế, Hà Nội",
-    "name": "Goky",
-    "LatLng":"(21.0121725,105.8496477)"
+    "name": "Goky"
     }
   },
   {
@@ -2145,8 +1967,7 @@
     },
     "properties": {
     "Address":"25 Thái Hà, Hà Nội",
-    "name": "Goky",
-    "LatLng":"(21.000809,105.850634)"
+    "name": "Goky"
     }
   },
   {
@@ -2157,8 +1978,7 @@
     },
     "properties": {
     "Address":"29 Hai Bà Trưng",
-    "name": "Goky",
-    "LatLng":"(21.042378,105.7936749)"
+    "name": "Goky"
     }
   },
   {
@@ -2169,8 +1989,7 @@
     },
     "properties": {
     "Address":"106A-B9 Tô Hiệu, Cầu Giấy, Hà Nội",
-    "name": "Goky",
-    "LatLng":"(21.0112589,105.8111167)"
+    "name": "Goky"
     }
   },
   {
@@ -2181,8 +2000,7 @@
     },
     "properties": {
     "Address":"124 Láng Hạ, Láng Hạ, Quận Đống Đa, Hà Nội",
-    "name": "Goky",
-    "LatLng":"(20.993909,105.806951)"
+    "name": "Goky"
     }
   },
   {
@@ -2193,8 +2011,7 @@
     },
     "properties": {
     "Address":"370 Nguyễn Trãi, Hà Nội",
-    "name": "Goky",
-    "LatLng":"(20.99592,105.861488)"
+    "name": "Goky"
     }
   },
   {
@@ -2205,8 +2022,7 @@
     },
     "properties": {
     "Address":"318 Minh Khai, Mai Động, Quận Hai Bà Trưng, Hà Nội",
-    "name": "Goky",
-    "LatLng":"(20.995925,105.8592939)"
+    "name": "Goky"
     }
   },
   {
@@ -2217,8 +2033,7 @@
     },
     "properties": {
     "Address":"280 Thượng Đình, Thượng Đình, Quận Thanh Xuân, Hà Nội",
-    "name": "Goky",
-    "LatLng":"(21.0191612,105.8291096)"
+    "name": "Goky"
     }
   },
   {
@@ -2229,8 +2044,7 @@
     },
     "properties": {
     "Address":"19 Ô Chợ Dừa, Hà Nội",
-    "name": "Goky",
-    "LatLng":"(21.036749,105.7779)"
+    "name": "Goky"
     }
   },
   {
@@ -2241,8 +2055,7 @@
     },
     "properties": {
     "Address":"88 Hồ Tùng Mậu, Mai Dịch, Quận Cầu Giấy, Hà Nội",
-    "name": "Goky",
-    "LatLng":"(21.01823,105.851666)"
+    "name": "Goky"
     }
   },
   {
@@ -2253,8 +2066,7 @@
     },
     "properties": {
     "Address":"47 Phố Huế, Hà Nội",
-    "name": "ChaChaGo",
-    "LatLng":"(21.0196224,105.8279184)"
+    "name": "ChaChaGo"
     }
   },
   {
@@ -2265,8 +2077,7 @@
     },
     "properties": {
     "Address":"113 Ô Chợ Dừa, Hà Nội",
-    "name": "ChaChaGo",
-    "LatLng":"(21.0196274,105.8257243)"
+    "name": "ChaChaGo"
     }
   },
   {
@@ -2277,8 +2088,7 @@
     },
     "properties": {
     "Address":"124 Tô Hiệu, Hà Nội",
-    "name": "House of Cha",
-    "LatLng":"(20.9664576,105.7749406)"
+    "name": "House of Cha"
     }
   },
   {
@@ -2289,8 +2099,7 @@
     },
     "properties": {
     "Address":"4 Quán Thánh, Hà Nội",
-    "name": "House of Cha",
-    "LatLng":"(21.0004435,105.8027418)"
+    "name": "House of Cha"
     }
   },
   {
@@ -2301,8 +2110,7 @@
     },
     "properties": {
     "Address":"102 Ngụy Như Kom Tum, Thanh Xuân, Hà Nội",
-    "name": "House of Cha",
-    "LatLng":"(21.031491,105.823973)"
+    "name": "House of Cha"
     }
   },
   {
@@ -2313,8 +2121,7 @@
     },
     "properties": {
     "Address":"185 Kim Mã, Hà Nội",
-    "name": "House of Cha",
-    "LatLng":"(21.0136899,105.8340432)"
+    "name": "House of Cha"
     }
   },
   {
@@ -2325,8 +2132,7 @@
     },
     "properties": {
     "Address":"157 Xã Đàn, Hà Nội",
-    "name": "LeeTee",
-    "LatLng":"(21.0136949,105.8318491)"
+    "name": "LeeTee"
     }
   },
   {
@@ -2337,8 +2143,7 @@
     },
     "properties": {
     "Address":"215 Tôn Đức Thắng, Đống Đa, Hà Nội",
-    "name": "XingCha",
-    "LatLng":"(21.02172,105.8292959)"
+    "name": "XingCha"
     }
   },
   {
@@ -2349,8 +2154,7 @@
     },
     "properties": {
     "Address":"193A Bà Triệu, Hà Nội",
-    "name": "XingCha",
-    "LatLng":"(21.0102038,105.8469461)"
+    "name": "XingCha"
     }
   },
   {
@@ -2361,8 +2165,7 @@
     },
     "properties": {
     "Address":"14 Gia Ngư, Hà Nội",
-    "name": "XingCha",
-    "LatLng":"(21.033053,105.8508199)"
+    "name": "XingCha"
     }
   },
   {
@@ -2373,8 +2176,7 @@
     },
     "properties": {
     "Address":"183 Trần Đại Nghĩa, Hà Nội",
-    "name": "XingCha",
-    "LatLng":"(21.0002417,105.8432827)"
+    "name": "XingCha"
     }
   },
   {
@@ -2385,8 +2187,7 @@
     },
     "properties": {
     "Address":"87 Nguyễn Khánh Toàn, Hà Nội",
-    "name": "XingCha",
-    "LatLng":"(21.0368492,105.7998658)"
+    "name": "XingCha"
     }
   },
   {
@@ -2397,8 +2198,7 @@
     },
     "properties": {
     "Address":"635 Minh Khai, Hà Nội",
-    "name": "XingCha",
-    "LatLng":"(21.0216276,105.791277)"
+    "name": "XingCha"
     }
   },
   {
@@ -2409,8 +2209,7 @@
     },
     "properties": {
     "Address":"210 Trung Kính, Hà Nội",
-    "name": "XingCha",
-    "LatLng":"(21.028457,105.8508669"
+    "name": "XingCha"
     }
   },
   {
@@ -2421,8 +2220,7 @@
     },
     "properties": {
     "Address":"128 Hàng Trống, Hà Nội",
-    "name": "Chat Time",
-    "LatLng":"(20.9682872,105.7723662)"
+    "name": "Chat Time"
     }
   },
   {
@@ -2433,8 +2231,7 @@
     },
     "properties": {
     "Address":"169 Quang Trung, Hà Đông",
-    "name": "Feelingtea",
-    "LatLng":"(20.9692056,105.7716268)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2445,8 +2242,7 @@
     },
     "properties": {
     "Address":"11 Thanh Niên, Hà Nội",
-    "name": "Feelingtea",
-    "LatLng":"(21.042996,105.8337729"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2457,8 +2253,7 @@
     },
     "properties": {
     "Address":"4 Trần Thái Tông, Hà Nội ",
-    "name": "Feelingtea",
-    "LatLng":"(21.015326,105.8573589)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2469,8 +2264,7 @@
     },
     "properties": {
     "Address":"137 Ngọc Hồi, Hà Nội  ",
-    "name": "Feelingtea",
-    "LatLng":"(21.019245,105.8338179)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2481,8 +2275,7 @@
     },
     "properties": {
     "Address":"219C Khâm Thiên, Hà Nội",
-    "name": "Feelingtea",
-    "LatLng":"(21.01925,105.8316238)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2493,8 +2286,7 @@
     },
     "properties": {
     "Address":"112 Hồ Tùng Mậu, Hà Nội  ",
-    "name": "Feelingtea",
-    "LatLng":"(21.0377899,105.8092824"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2505,8 +2297,7 @@
     },
     "properties": {
     "Address":"123 Đội Cấn, Hà Nội",
-    "name": "Feelingtea",
-    "LatLng":"(20.998379,105.850258)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2517,8 +2308,7 @@
     },
     "properties": {
     "Address":"401 Bạch Mai, Hà Nội",
-    "name": "Feelingtea",
-    "LatLng":"(21.0236124,105.8031752)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2529,8 +2319,7 @@
     },
     "properties": {
     "Address":"163 Chùa Láng, Hà Nội",
-    "name": "Feelingtea",
-    "LatLng":"(21.032208,105.85252)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2541,8 +2330,7 @@
     },
     "properties": {
     "Address":"45 Cầu Gỗ, Hà Nội",
-    "name": "Feelingtea",
-    "LatLng":"(21.032213,105.8503259)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2553,8 +2341,7 @@
     },
     "properties": {
     "Address":"59 Cửa Nam, Hà Nội",
-    "name": "Feelingtea",
-    "LatLng":"(21.028244,105.825633)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2565,8 +2352,7 @@
     },
     "properties": {
     "Address":"155 Giảng Võ, Hà Nội",
-    "name": "Feelingtea",
-    "LatLng":"(21.0014898,105.8451719)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2577,8 +2363,7 @@
     },
     "properties": {
     "Address":"147 Trần Đại Nghĩa, Hà Nội",
-    "name": "Feelingtea",
-    "LatLng":"(20.986004,105.814251)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2589,8 +2374,7 @@
     },
     "properties": {
     "Address":"22 Khương Hạ, Hà Nội",
-    "name": "Feelingtea",
-    "LatLng":"(21.046041,105.8707809)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2601,8 +2385,7 @@
     },
     "properties": {
     "Address":"162 Ngọc Lâm, Hà Nội",
-    "name": "Feelingtea",
-    "LatLng":"(21.046046,105.8685868)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2612,9 +2395,8 @@
        "coordinates":  [ 105.849993,21.009772 ]
     },
     "properties": {
-    "Address":"13 Lê Đại Hành, Hà Nội    ",
-    "name": "Feelingtea",
-    "LatLng":"(20.9991169,105.862198)"
+    "Address":"13 Lê Đại Hành, Hà Nội",
+    "name": "Feelingtea"
     }
   },
   {
@@ -2625,8 +2407,7 @@
     },
     "properties": {
     "Address":"491 Kim Ngưu, Hà Nội",
-    "name": "Feelingtea",
-    "LatLng":"(20.9991219,105.8600039)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2637,8 +2418,7 @@
     },
     "properties": {
     "Address":"68 Phùng Hưng, Hà Đông  ",
-    "name": "Feelingtea",
-    "LatLng":"(20.9647329,105.7915335)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2649,8 +2429,7 @@
     },
     "properties": {
     "Address":"99 Xã Đàn, Hà Nội",
-    "name": "Feelingtea",
-    "LatLng":"(21.0122022,105.8174835)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2661,8 +2440,7 @@
     },
     "properties": {
     "Address":"61 Yên Lãng, Hà Nội",
-    "name": "Feelingtea",
-    "LatLng":"(21.0123984,105.8151917)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2673,8 +2451,7 @@
     },
     "properties": {
     "Address":"192 Nguyễn Văn Cừ, Hà Nội",
-    "name": "Feelingtea",
-    "LatLng":"(21.043503,105.8700649)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2685,8 +2462,7 @@
     },
     "properties": {
     "Address":"K1 -2A Tầng 1 TT-TM Indochina Plaza, Hà Nội",
-    "name": "Feelingtea",
-    "LatLng":"(21.0361488,105.7802382)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2697,8 +2473,7 @@
     },
     "properties": {
     "Address":"226 Lò Đúc, Hà Nội",
-    "name": "Feelingtea",
-    "LatLng":"(21.010136,105.8581569)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2709,8 +2484,7 @@
     },
     "properties": {
     "Address":"128 Tân Mai, Hà Nội",
-    "name": "Feelingtea",
-    "LatLng":"(20.983627,105.8473169)"
+    "name": "Feelingtea"
     }
   },
   {
@@ -2721,8 +2495,7 @@
     },
     "properties": {
     "Address":"145 Nguyễn Chí Thanh, Hà Nội",
-    "name": "Trà Tiên Huởng",
-    "LatLng":"(21.0280327,105.8102177)"
+    "name": "Trà Tiên Huởng"
     }
   }
 ]
